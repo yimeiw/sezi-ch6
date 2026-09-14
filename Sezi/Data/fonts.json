@@ -1,0 +1,898 @@
+[
+  {
+    "name": "Playfair Display + Lato",
+    "heading_font": "Playfair Display",
+    "body_font": "Lato",
+    "style": "serif-display / sans-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage"
+    ],
+    "tags": [
+      "elegant",
+      "sophisticated",
+      "luxurious",
+      "refined",
+      "dramatic"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "elegant_sophisticated",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Poppins + Inter",
+    "heading_font": "Poppins",
+    "body_font": "Inter",
+    "style": "geometric-sans / sans-body",
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "modern",
+      "friendly",
+      "clean",
+      "innovative",
+      "approachable"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "modern_innovative",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Fredoka + Nunito",
+    "heading_font": "Fredoka",
+    "body_font": "Nunito",
+    "style": "rounded-display / rounded-sans",
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "playful",
+      "cheerful",
+      "youthful",
+      "fun",
+      "friendly"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "playful_fun",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Bungee + Work Sans",
+    "heading_font": "Bungee",
+    "body_font": "Work Sans",
+    "style": "bold-display / sans-body",
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage"
+    ],
+    "tags": [
+      "bold",
+      "energetic",
+      "vibrant",
+      "urban",
+      "dynamic"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Montserrat + Source Sans Pro",
+    "heading_font": "Montserrat",
+    "body_font": "Source Sans Pro",
+    "style": "geometric-sans / sans-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "modern",
+      "trustworthy",
+      "reliable",
+      "professional",
+      "confident"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "modern_innovative",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Merriweather + Open Sans",
+    "heading_font": "Merriweather",
+    "body_font": "Open Sans",
+    "style": "serif / sans-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "finance_professional",
+      "education",
+      "health_wellness",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "trustworthy",
+      "reliable",
+      "dependable",
+      "classic",
+      "calm"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "trustworthy_reliable",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Abril Fatface + Josefin Sans",
+    "heading_font": "Abril Fatface",
+    "body_font": "Josefin Sans",
+    "style": "high-contrast-display / sans-body",
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "dramatic",
+      "elegant",
+      "bold",
+      "vivid",
+      "confident"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "bold_energetic",
+      "elegant_sophisticated",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Baloo 2 + Mulish",
+    "heading_font": "Baloo 2",
+    "body_font": "Mulish",
+    "style": "rounded-bold / sans-body",
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "playful",
+      "bold",
+      "friendly",
+      "cheerful",
+      "energetic"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Cormorant Garamond + Karla",
+    "heading_font": "Cormorant Garamond",
+    "body_font": "Karla",
+    "style": "serif / sans-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "health_wellness",
+      "education"
+    ],
+    "tags": [
+      "elegant",
+      "refined",
+      "sophisticated",
+      "calm",
+      "graceful"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "elegant_sophisticated",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Space Grotesk + IBM Plex Sans",
+    "heading_font": "Space Grotesk",
+    "body_font": "IBM Plex Sans",
+    "style": "geometric-sans / sans-body",
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage"
+    ],
+    "tags": [
+      "modern",
+      "innovative",
+      "technology",
+      "confident",
+      "dynamic"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "modern_innovative",
+      "trustworthy_reliable",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Comfortaa + Quicksand",
+    "heading_font": "Comfortaa",
+    "body_font": "Quicksand",
+    "style": "rounded-sans / rounded-sans",
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "health_wellness",
+      "education",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "playful",
+      "calm",
+      "friendly",
+      "gentle",
+      "soft"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "playful_fun",
+      "calm_serene",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Oswald + Roboto",
+    "heading_font": "Oswald",
+    "body_font": "Roboto",
+    "style": "condensed-sans / sans-body",
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "finance_professional",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "bold",
+      "strong",
+      "energetic",
+      "dynamic",
+      "confident"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "bold_energetic",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Pacifico + Poppins",
+    "heading_font": "Pacifico",
+    "body_font": "Poppins",
+    "style": "script-display / sans-body",
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness"
+    ],
+    "tags": [
+      "playful",
+      "fun",
+      "youthful",
+      "vibrant",
+      "cheerful"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Bebas Neue + Barlow",
+    "heading_font": "Bebas Neue",
+    "body_font": "Barlow",
+    "style": "condensed-display / sans-body",
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage"
+    ],
+    "tags": [
+      "bold",
+      "energetic",
+      "dramatic",
+      "intense",
+      "powerful"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Lora + Nunito Sans",
+    "heading_font": "Lora",
+    "body_font": "Nunito Sans",
+    "style": "serif / sans-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "finance_professional"
+    ],
+    "tags": [
+      "warm",
+      "calm",
+      "trustworthy",
+      "reliable",
+      "inviting"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "warm_friendly",
+      "calm_serene",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "DM Serif Display + DM Sans",
+    "heading_font": "DM Serif Display",
+    "body_font": "DM Sans",
+    "style": "serif-display / sans-body",
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "tech_startup",
+      "retail_ecommerce",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "elegant",
+      "modern",
+      "sophisticated",
+      "sleek",
+      "confident"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "elegant_sophisticated",
+      "modern_innovative",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Righteous + Rubik",
+    "heading_font": "Righteous",
+    "body_font": "Rubik",
+    "style": "bold-display / sans-body",
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "bold",
+      "playful",
+      "energetic",
+      "vibrant",
+      "fun"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Crimson Pro + Work Sans",
+    "heading_font": "Crimson Pro",
+    "body_font": "Work Sans",
+    "style": "serif / sans-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "health_wellness",
+      "education"
+    ],
+    "tags": [
+      "classic",
+      "elegant",
+      "intellectual",
+      "calm",
+      "refined"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "elegant_sophisticated",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Cinzel Decorative + EB Garamond",
+    "heading_font": "Cinzel Decorative",
+    "body_font": "EB Garamond",
+    "style": "mystical-serif-display / serif-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "sports_fitness",
+      "food_beverage",
+      "finance_professional",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "mysterious",
+      "enigmatic",
+      "deep",
+      "dramatic",
+      "regal"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "mysterious_dramatic",
+      "bold_energetic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Anton + Barlow",
+    "heading_font": "Anton",
+    "body_font": "Barlow",
+    "style": "ultra-bold-display / sans-body",
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "travel_hospitality",
+      "sports_fitness",
+      "retail_ecommerce",
+      "entertainment_media",
+      "food_beverage",
+      "finance_professional",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "adventurous",
+      "daring",
+      "bold",
+      "strong",
+      "confident"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "adventurous_daring",
+      "bold_energetic",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Amatic SC + Nunito Sans",
+    "heading_font": "Amatic SC",
+    "body_font": "Nunito Sans",
+    "style": "handwritten-display / sans-body",
+    "target_users": [
+      "kids",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "food_beverage",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "education"
+    ],
+    "tags": [
+      "natural",
+      "earthy",
+      "organic",
+      "warm",
+      "cozy"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "natural_earthy",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Luckiest Guy + Quicksand",
+    "heading_font": "Luckiest Guy",
+    "body_font": "Quicksand",
+    "style": "comic-bold-display / rounded-sans",
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "travel_hospitality",
+      "sports_fitness",
+      "retail_ecommerce",
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage"
+    ],
+    "tags": [
+      "adventurous",
+      "bold",
+      "playful",
+      "daring",
+      "fun",
+      "quest",
+      "energetic"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "adventurous_daring",
+      "playful_fun",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Staatliches + Karla",
+    "heading_font": "Staatliches",
+    "body_font": "Karla",
+    "style": "condensed-bold-display / sans-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "travel_hospitality",
+      "sports_fitness",
+      "retail_ecommerce",
+      "entertainment_media",
+      "food_beverage",
+      "finance_professional",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "adventurous",
+      "rugged",
+      "bold",
+      "daring",
+      "confident",
+      "outdoor"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "adventurous_daring",
+      "bold_energetic",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Marcellus + Quicksand",
+    "heading_font": "Marcellus",
+    "body_font": "Quicksand",
+    "style": "elegant-serif / rounded-sans",
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "health_wellness",
+      "education"
+    ],
+    "tags": [
+      "elegant",
+      "graceful",
+      "gentle",
+      "sophisticated",
+      "refined",
+      "soft"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "elegant_sophisticated",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Baloo 2 + IBM Plex Sans",
+    "heading_font": "Baloo 2",
+    "body_font": "IBM Plex Sans",
+    "style": "rounded-bold-display / sans-body",
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage"
+    ],
+    "tags": [
+      "modern",
+      "innovative",
+      "tech",
+      "playful",
+      "fresh",
+      "curious"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "modern_innovative",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Creepster + Nunito",
+    "heading_font": "Creepster",
+    "body_font": "Nunito",
+    "style": "spooky-display / sans-body",
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "kids_toys",
+      "food_beverage",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "sports_fitness"
+    ],
+    "tags": [
+      "mysterious",
+      "spooky-fun",
+      "curious",
+      "playful",
+      "adventurous",
+      "quirky"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "mysterious_dramatic",
+      "playful_fun",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Special Elite + Josefin Sans",
+    "heading_font": "Special Elite",
+    "body_font": "Josefin Sans",
+    "style": "typewriter-vintage / sans-body",
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "mysterious",
+      "moody",
+      "intriguing",
+      "dramatic",
+      "vintage",
+      "noir"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "mysterious_dramatic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Caveat + Mulish",
+    "heading_font": "Caveat",
+    "body_font": "Mulish",
+    "style": "handwritten-casual / sans-body",
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "food_beverage",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "education"
+    ],
+    "tags": [
+      "natural",
+      "organic",
+      "casual",
+      "earthy",
+      "authentic",
+      "free-spirited"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "natural_earthy",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Varela Round + Mulish",
+    "heading_font": "Varela Round",
+    "body_font": "Mulish",
+    "style": "rounded-sans / sans-body",
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "finance_professional",
+      "education",
+      "health_wellness",
+      "food_beverage",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "trustworthy",
+      "reliable",
+      "friendly",
+      "clear",
+      "dependable",
+      "safe"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "trustworthy_reliable",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Grandstander + Karla",
+    "heading_font": "Grandstander",
+    "body_font": "Karla",
+    "style": "playful-variable-display / sans-body",
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness"
+    ],
+    "tags": [
+      "playful",
+      "fun",
+      "quirky",
+      "lighthearted",
+      "confident",
+      "witty"
+    ],
+    "source": "Google Fonts (free, download .ttf manually per name)",
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic"
+    ]
+  }
+]

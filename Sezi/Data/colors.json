@@ -1,0 +1,6995 @@
+[
+  {
+    "name": "Fire Brick (#FF1F01)",
+    "hex": "#FF1F01",
+    "hue": 7.1,
+    "saturation": 100.0,
+    "lightness": 50.2,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "energy",
+      "passion",
+      "alertness",
+      "bold",
+      "vigorous",
+      "striking",
+      "dynamic",
+      "warm",
+      "urgent",
+      "red",
+      "orange",
+      "vibrant"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.45,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Fire Red (#FF4332)",
+    "hex": "#FF4332",
+    "hue": 5.0,
+    "saturation": 100.0,
+    "lightness": 59.8,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "passionate",
+      "energy",
+      "alertness",
+      "bold",
+      "dynamic",
+      "vigorous",
+      "exciting",
+      "invigorating",
+      "intensity",
+      "red",
+      "warm",
+      "vivid"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.1,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Gold Marigold",
+    "hex": "#FF9A39",
+    "hue": 29.4,
+    "saturation": 100.0,
+    "lightness": 61.2,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "entertainment_media",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "warmth",
+      "vitality",
+      "bold",
+      "radiant",
+      "energetic",
+      "sunny",
+      "cheerful",
+      "vibrant",
+      "warm",
+      "success",
+      "prosperity",
+      "courage"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 9.93,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Firey Orange (#FF9229)",
+    "hex": "#FF9229",
+    "hue": 29.4,
+    "saturation": 100.0,
+    "lightness": 58.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "energy",
+      "passion",
+      "adventurous",
+      "bold",
+      "daring",
+      "alert",
+      "exciting",
+      "vibrant",
+      "bright",
+      "warm",
+      "passionate",
+      "firey"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 9.4,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Amber Glow",
+    "hex": "#FFAB24",
+    "hue": 37.0,
+    "saturation": 100.0,
+    "lightness": 57.1,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "energy",
+      "warmth",
+      "friendliness",
+      "excitement",
+      "outgoing",
+      "bold",
+      "spontaneous",
+      "cheerful",
+      "enthusiastic",
+      "invigorating",
+      "vibrant",
+      "bright"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 11.1,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "playful_fun",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Gold (Metallic) (#FFB91E)",
+    "hex": "#FFB91E",
+    "hue": 41.3,
+    "saturation": 100.0,
+    "lightness": 55.9,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "entertainment_media",
+      "fashion_beauty",
+      "finance_professional"
+    ],
+    "tags": [
+      "warmth",
+      "energy",
+      "radiant",
+      "vibrant",
+      "glamorous",
+      "energetic",
+      "metallic",
+      "gold",
+      "warm",
+      "luxurious",
+      "opulent",
+      "success"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.21,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "bold_energetic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Gold (Metallic) (#FFCA07)",
+    "hex": "#FFCA07",
+    "hue": 47.2,
+    "saturation": 100.0,
+    "lightness": 51.4,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "entertainment_media",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "warmth",
+      "energy",
+      "happiness",
+      "radiant",
+      "bold",
+      "inviting",
+      "sunny",
+      "optimistic",
+      "vibrant",
+      "bright",
+      "vivid",
+      "gold"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 13.7,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Goldenrod",
+    "hex": "#FFE31D",
+    "hue": 52.6,
+    "saturation": 100.0,
+    "lightness": 55.7,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "entertainment_media",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "warmth",
+      "energy",
+      "vibrant",
+      "friendly",
+      "approachable",
+      "sunny",
+      "cheerful",
+      "optimistic",
+      "warm",
+      "autumn",
+      "golden",
+      "yellow"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.26,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "#D4FF26 (Lime Green)",
+    "hex": "#D4FF26",
+    "hue": 71.9,
+    "saturation": 100.0,
+    "lightness": 57.5,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "excitement",
+      "vitality",
+      "energetic",
+      "outgoing",
+      "optimistic",
+      "cheerful",
+      "radiant",
+      "bright",
+      "vibrant",
+      "green",
+      "lime",
+      "attention"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 18.13,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Lime Green (#E0FF7C)",
+    "hex": "#E0FF7C",
+    "hue": 74.2,
+    "saturation": 100.0,
+    "lightness": 74.3,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "kids_toys",
+      "health_wellness"
+    ],
+    "tags": [
+      "energetic",
+      "exciting",
+      "adventurous",
+      "dynamic",
+      "youthful",
+      "fresh",
+      "lime",
+      "green",
+      "bright",
+      "vibrant",
+      "energy",
+      "excitement"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 18.76,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Sea Foam Green",
+    "hex": "#C8FF60",
+    "hue": 80.8,
+    "saturation": 100.0,
+    "lightness": 68.8,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "health_wellness"
+    ],
+    "tags": [
+      "joyful",
+      "bubbly",
+      "energetic",
+      "fresh",
+      "ocean",
+      "breeze",
+      "refreshing",
+      "invigorating",
+      "vibrant",
+      "lively",
+      "energizing",
+      "natural"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 17.93,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Lime Green (#90FF08)",
+    "hex": "#90FF08",
+    "hue": 87.0,
+    "saturation": 100.0,
+    "lightness": 51.6,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "health_wellness"
+    ],
+    "tags": [
+      "excitement",
+      "energy",
+      "spirited",
+      "outgoing",
+      "playful",
+      "invigorating",
+      "vibrant",
+      "bright",
+      "green",
+      "lime",
+      "fresh",
+      "exciting"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.49,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Caffae Green",
+    "hex": "#CAFFAE",
+    "hue": 99.3,
+    "saturation": 100.0,
+    "lightness": 84.1,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calm",
+      "peaceful",
+      "relaxing",
+      "gentle",
+      "soothing",
+      "unassuming",
+      "tranquil",
+      "easygoing",
+      "pastel",
+      "soft",
+      "calming",
+      "nature"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 18.43,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Lime Greenish Blue",
+    "hex": "#BCFF7B",
+    "hue": 90.5,
+    "saturation": 100.0,
+    "lightness": 74.1,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional",
+      "health_wellness"
+    ],
+    "tags": [
+      "vibrant",
+      "exciting",
+      "playful",
+      "creative",
+      "spirited",
+      "energetic",
+      "invigorating",
+      "lime",
+      "greenish",
+      "blue",
+      "modern",
+      "fresh"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 17.73,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "modern_innovative",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Lime Green (#2DFF04)",
+    "hex": "#2DFF04",
+    "hue": 110.2,
+    "saturation": 100.0,
+    "lightness": 50.8,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "excitement",
+      "energetic",
+      "optimistic",
+      "youthful",
+      "bold",
+      "spirited",
+      "radiant",
+      "bright",
+      "vibrant",
+      "green",
+      "new",
+      "beginnings"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 15.42,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Lime Green (#38FF12)",
+    "hex": "#38FF12",
+    "hue": 110.4,
+    "saturation": 100.0,
+    "lightness": 53.5,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "vitality",
+      "excitement",
+      "bold",
+      "energetic",
+      "youthful",
+      "fun",
+      "cheerful",
+      "bright",
+      "vibrant",
+      "green",
+      "lime",
+      "yellowish"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 15.48,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Green Yellow (Harlequin)",
+    "hex": "#26FF58",
+    "hue": 133.8,
+    "saturation": 100.0,
+    "lightness": 57.5,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "health_wellness"
+    ],
+    "tags": [
+      "vitality",
+      "energy",
+      "playful",
+      "spirited",
+      "exciting",
+      "invigorating",
+      "vibrant",
+      "fresh",
+      "zesty"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 15.53,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Lime Green (#34FF64)",
+    "hex": "#34FF64",
+    "hue": 134.2,
+    "saturation": 100.0,
+    "lightness": 60.2,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "kids_toys",
+      "health_wellness"
+    ],
+    "tags": [
+      "energy",
+      "vitality",
+      "bold",
+      "adventurous",
+      "youthful",
+      "exciting",
+      "energetic",
+      "vibrant",
+      "bright",
+      "green",
+      "lime",
+      "fresh"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 15.63,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Green Yellow (#81FFA2)",
+    "hex": "#81FFA2",
+    "hue": 135.7,
+    "saturation": 100.0,
+    "lightness": 75.3,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "health_wellness",
+      "travel_hospitality",
+      "education"
+    ],
+    "tags": [
+      "joyful",
+      "playful",
+      "refreshing",
+      "sunny",
+      "friendly",
+      "optimistic",
+      "bright",
+      "uplifting",
+      "positive",
+      "vibrant",
+      "pastel",
+      "green"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.76,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "natural_earthy",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Greenish cyan",
+    "hex": "#79FFB4",
+    "hue": 146.4,
+    "saturation": 100.0,
+    "lightness": 73.7,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "energy",
+      "freshness",
+      "vibrant",
+      "energetic",
+      "youthful",
+      "lively",
+      "invigorating",
+      "green",
+      "blue",
+      "fresh",
+      "growth",
+      "renewal"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.78,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Lime Green (#08FFC0)",
+    "hex": "#08FFC0",
+    "hue": 164.7,
+    "saturation": 100.0,
+    "lightness": 51.6,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "energetic",
+      "fresh",
+      "vibrant",
+      "lively",
+      "exciting",
+      "youthful",
+      "modern",
+      "lime",
+      "energy",
+      "green",
+      "technology"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.08,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "#13FF97 (Lime Green)",
+    "hex": "#13FF97",
+    "hue": 153.6,
+    "saturation": 100.0,
+    "lightness": 53.7,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "health_wellness"
+    ],
+    "tags": [
+      "excitement",
+      "energy",
+      "outgoing",
+      "bold",
+      "energetic",
+      "playful",
+      "cheerful",
+      "invigorating",
+      "fresh",
+      "bright",
+      "lively",
+      "spring"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 15.78,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Aquamarine (#00FFD0)",
+    "hex": "#00FFD0",
+    "hue": 168.9,
+    "saturation": 100.0,
+    "lightness": 50.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "food_beverage",
+      "retail_ecommerce",
+      "education",
+      "travel_hospitality",
+      "kids_toys",
+      "entertainment_media",
+      "sports_fitness"
+    ],
+    "tags": [
+      "refreshing",
+      "calm",
+      "relaxing",
+      "lighthearted",
+      "playful",
+      "easygoing",
+      "invigorating",
+      "serene",
+      "tranquil",
+      "fresh",
+      "oceanic",
+      "vibrant"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.21,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "natural_earthy",
+      "calm_serene",
+      "playful_fun",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "#73FFEB (Sky Blue Green)",
+    "hex": "#73FFEB",
+    "hue": 171.4,
+    "saturation": 100.0,
+    "lightness": 72.5,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "food_beverage",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "tranquil",
+      "calm",
+      "relaxed",
+      "easygoing",
+      "fresh",
+      "invigorating",
+      "light",
+      "cool",
+      "technology",
+      "nature",
+      "freshness",
+      "calmness"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 17.23,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "natural_earthy",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Cyan Aqua",
+    "hex": "#5BFDFF",
+    "hue": 180.7,
+    "saturation": 100.0,
+    "lightness": 67.8,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "food_beverage",
+      "retail_ecommerce",
+      "education",
+      "travel_hospitality",
+      "tech_startup",
+      "finance_professional",
+      "kids_toys",
+      "entertainment_media"
+    ],
+    "tags": [
+      "freshness",
+      "calmness",
+      "innovation",
+      "playful",
+      "creative",
+      "imaginative",
+      "bright",
+      "invigorating",
+      "energizing",
+      "technology",
+      "ocean",
+      "sky"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.94,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "natural_earthy",
+      "calm_serene",
+      "modern_innovative",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Cyansky Blue",
+    "hex": "#2BF9FF",
+    "hue": 181.7,
+    "saturation": 100.0,
+    "lightness": 58.4,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional",
+      "kids_toys"
+    ],
+    "tags": [
+      "excitement",
+      "energy",
+      "calmness",
+      "adventurous",
+      "daring",
+      "innovative",
+      "playful",
+      "energetic",
+      "relaxing",
+      "vibrant",
+      "cool",
+      "bright"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.1,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "calm_serene",
+      "adventurous_daring",
+      "modern_innovative",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "#25B6FF (Cerulean Blue)",
+    "hex": "#25B6FF",
+    "hue": 200.1,
+    "saturation": 100.0,
+    "lightness": 57.2,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "tech_startup",
+      "retail_ecommerce",
+      "food_beverage",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "calm",
+      "serene",
+      "tranquil",
+      "trustworthy",
+      "dependable",
+      "innovative",
+      "cool",
+      "refreshing",
+      "blue",
+      "deep",
+      "vibrant",
+      "technology"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 9.21,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "modern_innovative",
+      "natural_earthy",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "#9FDBFF (Cyan-Blue)",
+    "hex": "#9FDBFF",
+    "hue": 202.5,
+    "saturation": 100.0,
+    "lightness": 81.2,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "health_wellness",
+      "food_beverage",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional",
+      "kids_toys",
+      "entertainment_media"
+    ],
+    "tags": [
+      "refreshing",
+      "invigorating",
+      "creative",
+      "innovative",
+      "lively",
+      "exciting",
+      "technology",
+      "creativity",
+      "sky",
+      "water",
+      "high",
+      "tech"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 14.05,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "natural_earthy",
+      "modern_innovative",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Sapphire Blue (#5C9BFF)",
+    "hex": "#5C9BFF",
+    "hue": 216.8,
+    "saturation": 100.0,
+    "lightness": 68.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "fashion_beauty",
+      "entertainment_media",
+      "creative_arts",
+      "tech_startup",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calm",
+      "trustworthy",
+      "reliable",
+      "loyal",
+      "majestic",
+      "serene",
+      "elegant",
+      "deep",
+      "rich",
+      "vibrant",
+      "luxury",
+      "technology"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.59,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Sapphire Blue (#3794FF)",
+    "hex": "#3794FF",
+    "hue": 212.1,
+    "saturation": 100.0,
+    "lightness": 60.8,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "sports_fitness",
+      "food_beverage",
+      "tech_startup",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calmness",
+      "trust",
+      "loyalty",
+      "reliable",
+      "stable",
+      "mysterious",
+      "cool",
+      "elegant",
+      "powerful",
+      "technology",
+      "finance",
+      "healthcare"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.84,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "mysterious_dramatic",
+      "elegant_sophisticated",
+      "bold_energetic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Cobalt Blue (#496FFF)",
+    "hex": "#496FFF",
+    "hue": 227.5,
+    "saturation": 100.0,
+    "lightness": 64.3,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "excitement",
+      "innovation",
+      "adventurous",
+      "daring",
+      "futuristic",
+      "vibrant",
+      "technology",
+      "creative",
+      "bright",
+      "cool",
+      "exciting"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.0,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "modern_innovative",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Ultra Blue (or Dark Cobalt)",
+    "hex": "#0507FF",
+    "hue": 239.5,
+    "saturation": 100.0,
+    "lightness": 51.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "calm",
+      "trustworthy",
+      "professional",
+      "reliable",
+      "steadfast",
+      "dependable",
+      "cool",
+      "tranquil",
+      "powerful",
+      "deep",
+      "blue",
+      "cobalt"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 8.46,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "#592EFF (Cerulean Violet)",
+    "hex": "#592EFF",
+    "hue": 252.3,
+    "saturation": 100.0,
+    "lightness": 59.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "sports_fitness",
+      "food_beverage"
+    ],
+    "tags": [
+      "mysterious",
+      "enigmatic",
+      "secretive",
+      "introspective",
+      "visionary",
+      "dreamy",
+      "futuristic",
+      "innovative",
+      "violet",
+      "cool",
+      "blue",
+      "intense"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 6.44,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "mysterious_dramatic",
+      "modern_innovative",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Ultramarine Blue",
+    "hex": "#2208FF",
+    "hue": 246.3,
+    "saturation": 100.0,
+    "lightness": 51.6,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional",
+      "education",
+      "health_wellness",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "mysterious",
+      "powerful",
+      "authoritative",
+      "trustworthy",
+      "calm",
+      "professional",
+      "deep",
+      "intense",
+      "blue",
+      "corporate"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 8.25,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "mysterious_dramatic",
+      "trustworthy_reliable",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Deep Cobalt Blue (#5406FF)",
+    "hex": "#5406FF",
+    "hue": 258.8,
+    "saturation": 100.0,
+    "lightness": 51.2,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "education",
+      "health_wellness",
+      "creative_arts"
+    ],
+    "tags": [
+      "majestic",
+      "powerful",
+      "bold",
+      "confident",
+      "energetic",
+      "dynamic",
+      "vibrant",
+      "blue",
+      "intense",
+      "deep",
+      "cobalt",
+      "trust"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.38,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "elegant_sophisticated",
+      "bold_energetic",
+      "trustworthy_reliable",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Medium Purple (Deep Royal Purple)",
+    "hex": "#6D2BFF",
+    "hue": 258.7,
+    "saturation": 100.0,
+    "lightness": 58.4,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "entertainment_media",
+      "creative_arts",
+      "sports_fitness",
+      "food_beverage"
+    ],
+    "tags": [
+      "majestic",
+      "regal",
+      "confident",
+      "mysterious",
+      "luxurious",
+      "royal",
+      "intense",
+      "purple",
+      "deep",
+      "luxury",
+      "high",
+      "end"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 6.11,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "elegant_sophisticated",
+      "trustworthy_reliable",
+      "mysterious_dramatic",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "E6B1FF (Light Fuchsia)",
+    "hex": "#E6B1FF",
+    "hue": 280.8,
+    "saturation": 100.0,
+    "lightness": 84.7,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional",
+      "sports_fitness"
+    ],
+    "tags": [
+      "joy",
+      "playfulness",
+      "whimsical",
+      "creative",
+      "festive",
+      "exciting",
+      "pastel",
+      "pink",
+      "purple"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.1,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "modern_innovative",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Medium Purple (#D080FF)",
+    "hex": "#D080FF",
+    "hue": 277.8,
+    "saturation": 100.0,
+    "lightness": 75.1,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "playful",
+      "creative",
+      "whimsical",
+      "imaginative",
+      "dreamy",
+      "fun",
+      "vibrant",
+      "pastel",
+      "purple",
+      "blue",
+      "red",
+      "blend"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 8.21,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "modern_innovative",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Fuchsia Violet (#FC3DFF)",
+    "hex": "#FC3DFF",
+    "hue": 299.1,
+    "saturation": 100.0,
+    "lightness": 62.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "excitement",
+      "passion",
+      "power",
+      "outgoing",
+      "bold",
+      "adventurous",
+      "vibrant",
+      "dramatic",
+      "energetic",
+      "intense",
+      "vivid",
+      "expressive"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.25,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Fuchsia Violet (#F053FF)",
+    "hex": "#F053FF",
+    "hue": 294.8,
+    "saturation": 100.0,
+    "lightness": 66.3,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "energetic",
+      "exciting",
+      "spirited",
+      "adventurous",
+      "bold",
+      "dramatic",
+      "vibrant",
+      "playful",
+      "creative",
+      "romantic"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.39,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "adventurous_daring",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Fuchsia Rose (#FF4BFE)",
+    "hex": "#FF4BFE",
+    "hue": 300.3,
+    "saturation": 100.0,
+    "lightness": 64.7,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "excitement",
+      "energy",
+      "vibrant",
+      "bold",
+      "dynamic",
+      "radiant",
+      "vivacious",
+      "energetic",
+      "vivid",
+      "pink",
+      "bright",
+      "exciting"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.69,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Fuchsia Magenta (#FF82F4)",
+    "hex": "#FF82F4",
+    "hue": 305.3,
+    "saturation": 100.0,
+    "lightness": 75.5,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "playful",
+      "exciting",
+      "vivid",
+      "dynamic",
+      "bold",
+      "energetic",
+      "lively",
+      "bright",
+      "vibrant",
+      "intense",
+      "creative",
+      "eye"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 9.75,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Fuchsia Magenta (#FF3CA8)",
+    "hex": "#FF3CA8",
+    "hue": 326.8,
+    "saturation": 100.0,
+    "lightness": 61.8,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "energetic",
+      "exciting",
+      "bold",
+      "outspoken",
+      "lively",
+      "vibrant",
+      "bright",
+      "magenta",
+      "eye",
+      "catching",
+      "creative",
+      "energy"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.46,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Fuchsia Magenta (#FF30B3)",
+    "hex": "#FF30B3",
+    "hue": 322.0,
+    "saturation": 100.0,
+    "lightness": 59.4,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "lively",
+      "excitable",
+      "bold",
+      "exuberant",
+      "energetic",
+      "vivid",
+      "eye",
+      "catching",
+      "exciting",
+      "creative"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.33,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Fuchsia Rose (#FFAEC9)",
+    "hex": "#FFAEC9",
+    "hue": 340.0,
+    "saturation": 100.0,
+    "lightness": 84.1,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "tech_startup",
+      "finance_professional",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "joy",
+      "playfulness",
+      "bold",
+      "creative",
+      "energetic",
+      "exciting",
+      "vibrant",
+      "playful",
+      "love",
+      "romance",
+      "fashion",
+      "energy"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.15,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic",
+      "modern_innovative",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Fuchsia Rose (#FF83B2)",
+    "hex": "#FF83B2",
+    "hue": 337.3,
+    "saturation": 100.0,
+    "lightness": 75.7,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "playful",
+      "exciting",
+      "spirited",
+      "energetic",
+      "lively",
+      "vibrant",
+      "vivid",
+      "bright",
+      "passionate",
+      "creative",
+      "imaginative"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 9.14,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Fuchsia Rose (#FF8095)",
+    "hex": "#FF8095",
+    "hue": 350.1,
+    "saturation": 100.0,
+    "lightness": 75.1,
+    "target_users": [
+      "kids"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "vibrant",
+      "energetic",
+      "playful",
+      "excitable",
+      "lively",
+      "passionate",
+      "joyful",
+      "bold",
+      "exciting",
+      "love",
+      "passion",
+      "energy"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 8.77,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Fire Brick (#FF0321)",
+    "hex": "#FF0321",
+    "hue": 352.9,
+    "saturation": 100.0,
+    "lightness": 50.6,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage"
+    ],
+    "tags": [
+      "passionate",
+      "energy",
+      "alertness",
+      "bold",
+      "determined",
+      "forceful",
+      "powerful",
+      "vital",
+      "intense",
+      "red",
+      "orange",
+      "strong"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.29,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Firey Orange (#FF9876)",
+    "hex": "#FF9876",
+    "hue": 14.9,
+    "saturation": 100.0,
+    "lightness": 73.1,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "energy",
+      "passion",
+      "bold",
+      "adventurous",
+      "exciting",
+      "energetic",
+      "vibrant",
+      "orange",
+      "bright",
+      "warm"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 10.0,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Fire Red (#FF614F)",
+    "hex": "#FF614F",
+    "hue": 6.1,
+    "saturation": 100.0,
+    "lightness": 65.5,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "energy",
+      "passion",
+      "excitement",
+      "bold",
+      "energetic",
+      "determined",
+      "lively",
+      "spirited",
+      "enthusiastic",
+      "vivid",
+      "intense",
+      "warm"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.07,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Gold (Bright Gold or Coral Orange)",
+    "hex": "#FFB470",
+    "hue": 28.5,
+    "saturation": 100.0,
+    "lightness": 72.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "entertainment_media",
+      "finance_professional",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "warmth",
+      "energy",
+      "friendliness",
+      "confident",
+      "vibrant",
+      "inviting",
+      "sunny",
+      "cheerful",
+      "spirited",
+      "warm",
+      "radiant",
+      "prosperous"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.01,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "bold_energetic",
+      "trustworthy_reliable",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Burnt Sienna (#B64300)",
+    "hex": "#B64300",
+    "hue": 22.1,
+    "saturation": 100.0,
+    "lightness": 35.7,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "fashion_beauty",
+      "finance_professional",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "passionate",
+      "warm",
+      "determined",
+      "bold",
+      "vibrant",
+      "energetic",
+      "intense",
+      "vivid",
+      "rich",
+      "strong",
+      "autumn",
+      "harvest"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.54,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "elegant_sophisticated",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Golden Orange",
+    "hex": "#C66D00",
+    "hue": 33.0,
+    "saturation": 100.0,
+    "lightness": 38.8,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "energetic",
+      "warm",
+      "inviting",
+      "adventurous",
+      "passionate",
+      "bold",
+      "radiant",
+      "spirited",
+      "joyful",
+      "warmth",
+      "energy",
+      "autumn"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.59,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "adventurous_daring",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Gold Yellow",
+    "hex": "#D0B500",
+    "hue": 52.2,
+    "saturation": 100.0,
+    "lightness": 40.8,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "education",
+      "finance_professional",
+      "kids_toys"
+    ],
+    "tags": [
+      "radiant",
+      "sunny",
+      "warm",
+      "confident",
+      "optimistic",
+      "energetic",
+      "person",
+      "joyful",
+      "vital",
+      "enthusiastic",
+      "gold",
+      "yellow"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 10.29,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "warm_friendly",
+      "trustworthy_reliable",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Gold (Metallic) (#FFF526)",
+    "hex": "#FFF526",
+    "hue": 57.2,
+    "saturation": 100.0,
+    "lightness": 57.5,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "entertainment_media",
+      "finance_professional",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "warmth",
+      "energy",
+      "friendliness",
+      "radiant",
+      "bold",
+      "confident",
+      "cheerful",
+      "inviting",
+      "gold",
+      "metallic",
+      "warm",
+      "vibrant"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 18.34,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "bold_energetic",
+      "trustworthy_reliable",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Green (Lime Green or Olive Green)",
+    "hex": "#9ABC00",
+    "hue": 70.8,
+    "saturation": 100.0,
+    "lightness": 36.9,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "vitality",
+      "freshness",
+      "energy",
+      "lively",
+      "outgoing",
+      "natural",
+      "invigorating",
+      "exciting",
+      "vibrant",
+      "lime",
+      "olive",
+      "fresh"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 9.57,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Lime Green (#BCFF19)",
+    "hex": "#BCFF19",
+    "hue": 77.5,
+    "saturation": 100.0,
+    "lightness": 54.9,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "kids_toys"
+    ],
+    "tags": [
+      "excitement",
+      "freshness",
+      "adventurous",
+      "optimistic",
+      "playful",
+      "invigorating",
+      "bright",
+      "vibrant",
+      "lime",
+      "green",
+      "energy",
+      "fresh"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 17.46,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "adventurous_daring",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Lime Green (#9BFF04)",
+    "hex": "#9BFF04",
+    "hue": 83.9,
+    "saturation": 100.0,
+    "lightness": 50.8,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "health_wellness",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "exciting",
+      "outgoing",
+      "radiant",
+      "youthful",
+      "fresh",
+      "vibrant",
+      "green",
+      "bright",
+      "energetic",
+      "modern",
+      "renewal",
+      "growth"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.7,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "natural_earthy",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Lime Green (#5DBA00)",
+    "hex": "#5DBA00",
+    "hue": 90.0,
+    "saturation": 100.0,
+    "lightness": 36.5,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "excitement",
+      "freshness",
+      "bold",
+      "optimistic",
+      "youthful",
+      "invigorating",
+      "vivid",
+      "energetic",
+      "green",
+      "bright",
+      "fresh"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 8.49,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Greenish cyan (Sometimes referred to as Spring green or Lime green)",
+    "hex": "#8CFF44",
+    "hue": 96.9,
+    "saturation": 100.0,
+    "lightness": 63.3,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "vibrant",
+      "fresh",
+      "invigorating",
+      "energetic",
+      "bold",
+      "optimistic",
+      "lively",
+      "exciting",
+      "cheerful",
+      "green",
+      "bright",
+      "spring"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.5,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Green Yellow (#28FF23)",
+    "hex": "#28FF23",
+    "hue": 118.6,
+    "saturation": 100.0,
+    "lightness": 56.9,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "health_wellness"
+    ],
+    "tags": [
+      "energy",
+      "excitement",
+      "playful",
+      "bold",
+      "joyful",
+      "energetic",
+      "vibrant",
+      "lively",
+      "green",
+      "yellow",
+      "renewal",
+      "growth"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 15.42,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Green (specifically #15E400)",
+    "hex": "#15E400",
+    "hue": 114.5,
+    "saturation": 100.0,
+    "lightness": 44.7,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "excitement",
+      "freshness",
+      "enthusiasm",
+      "charismatic",
+      "energetic",
+      "character",
+      "who",
+      "loves",
+      "life",
+      "spreads",
+      "positivity",
+      "invigorating"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.13,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Lime Green (#00EB28)",
+    "hex": "#00EB28",
+    "hue": 130.2,
+    "saturation": 100.0,
+    "lightness": 46.1,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys",
+      "travel_hospitality",
+      "education"
+    ],
+    "tags": [
+      "vitality",
+      "excitement",
+      "freshness",
+      "outgoing",
+      "friendly",
+      "spontaneous",
+      "invigorating",
+      "joyful",
+      "energetic",
+      "vibrant",
+      "bright",
+      "fresh"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.91,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun",
+      "warm_friendly",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Lime Green (#11FF7F)",
+    "hex": "#11FF7F",
+    "hue": 147.7,
+    "saturation": 100.0,
+    "lightness": 53.3,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "energy",
+      "excitement",
+      "freshness",
+      "playful",
+      "outgoing",
+      "youthful",
+      "bold",
+      "energetic",
+      "vivid",
+      "bright",
+      "neon",
+      "fresh"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 15.63,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "#00C150 (Hexadecimal) or Lime Green (Common Name)",
+    "hex": "#00C150",
+    "hue": 144.9,
+    "saturation": 100.0,
+    "lightness": 37.8,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "energetic",
+      "fresh",
+      "exciting",
+      "vibrant",
+      "youthful",
+      "spirited",
+      "cheerful",
+      "invigorating",
+      "joyful",
+      "bright",
+      "lime",
+      "green"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 8.74,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Green (neon)",
+    "hex": "#1BFFC0",
+    "hue": 163.4,
+    "saturation": 100.0,
+    "lightness": 55.3,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "energy",
+      "excitement",
+      "bold",
+      "vibrant",
+      "outgoing",
+      "energetic",
+      "youthful",
+      "radiant",
+      "bright",
+      "neon",
+      "green",
+      "modern"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.11,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Teal",
+    "hex": "#00BA85",
+    "hue": 162.9,
+    "saturation": 100.0,
+    "lightness": 36.5,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "energetic",
+      "calm",
+      "relaxing",
+      "spirited",
+      "adventurous",
+      "innovative",
+      "youthful",
+      "lively",
+      "modern",
+      "vibrant",
+      "fresh",
+      "ocean"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 8.36,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "playful_fun",
+      "adventurous_daring",
+      "modern_innovative",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Aquamarine (#7EFFE7)",
+    "hex": "#7EFFE7",
+    "hue": 168.8,
+    "saturation": 100.0,
+    "lightness": 74.7,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calmness",
+      "tranquility",
+      "refreshing",
+      "relaxing",
+      "serene",
+      "invigorating",
+      "aqua",
+      "blue",
+      "calm",
+      "tranquil",
+      "fresh",
+      "water"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 17.35,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Aquamarine (#00FDE5)",
+    "hex": "#00FDE5",
+    "hue": 174.3,
+    "saturation": 100.0,
+    "lightness": 49.6,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "entertainment_media",
+      "tech_startup"
+    ],
+    "tags": [
+      "tranquil",
+      "calm",
+      "serene",
+      "reliable",
+      "fresh",
+      "invigorating",
+      "vibrant",
+      "blue",
+      "green",
+      "technology",
+      "healthcare",
+      "travel"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 16.18,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "natural_earthy",
+      "bold_energetic",
+      "modern_innovative",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Cyansky Blue (a blend of Cyan and Sky Blue)",
+    "hex": "#47EAFF",
+    "hue": 186.8,
+    "saturation": 100.0,
+    "lightness": 63.9,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "kids_toys"
+    ],
+    "tags": [
+      "excitement",
+      "innovation",
+      "freedom",
+      "adventurous",
+      "dynamic",
+      "creative",
+      "energetic",
+      "playful",
+      "bold",
+      "technology",
+      "energy",
+      "creativity"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 14.48,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "modern_innovative",
+      "adventurous_daring",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "#00A5B6 (Hexadecimal) or Dark Cyan (Commonly Used Name)",
+    "hex": "#00A5B6",
+    "hue": 185.6,
+    "saturation": 100.0,
+    "lightness": 35.7,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "food_beverage",
+      "retail_ecommerce",
+      "education",
+      "travel_hospitality",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "refreshing",
+      "calming",
+      "invigorating",
+      "analytical",
+      "intellectual",
+      "innovative",
+      "professional",
+      "modern",
+      "creative",
+      "tech",
+      "nature",
+      "calm"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.06,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "natural_earthy",
+      "calm_serene",
+      "modern_innovative",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Cyan (Cobalt Blue)",
+    "hex": "#009EEF",
+    "hue": 200.3,
+    "saturation": 100.0,
+    "lightness": 46.9,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "kids_toys"
+    ],
+    "tags": [
+      "excitement",
+      "innovation",
+      "adventurous",
+      "intellectual",
+      "lively",
+      "vibrant",
+      "futuristic",
+      "digital",
+      "electronic",
+      "modern",
+      "technology",
+      "innovative"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.14,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "modern_innovative",
+      "adventurous_daring",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Cobalt Blue (#0065EE)",
+    "hex": "#0065EE",
+    "hue": 214.5,
+    "saturation": 100.0,
+    "lightness": 46.7,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "fashion_beauty",
+      "tech_startup",
+      "retail_ecommerce",
+      "entertainment_media",
+      "creative_arts"
+    ],
+    "tags": [
+      "calm",
+      "professional",
+      "trustworthy",
+      "reliable",
+      "dependable",
+      "knowledgeable",
+      "cool",
+      "sophisticated",
+      "modern",
+      "intense",
+      "vibrant",
+      "deep"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.13,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "elegant_sophisticated",
+      "modern_innovative",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Indigo Cobalt (#0005C0)",
+    "hex": "#0005C0",
+    "hue": 238.4,
+    "saturation": 100.0,
+    "lightness": 37.6,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calm",
+      "intense",
+      "mysterious",
+      "introspective",
+      "thoughtful",
+      "creative",
+      "dreamy",
+      "enigmatic",
+      "deep",
+      "blue",
+      "profound",
+      "intuitive"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 11.78,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "mysterious_dramatic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Deep Cobalt Blue (#5F53FF)",
+    "hex": "#5F53FF",
+    "hue": 244.2,
+    "saturation": 100.0,
+    "lightness": 66.3,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "serene",
+      "reliable",
+      "dependable",
+      "strong",
+      "willed",
+      "calm",
+      "confident",
+      "trust",
+      "professional",
+      "stability",
+      "deep",
+      "cobalt"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.04,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Cobalt Blue (#4F3EFF)",
+    "hex": "#4F3EFF",
+    "hue": 245.3,
+    "saturation": 100.0,
+    "lightness": 62.2,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "food_beverage"
+    ],
+    "tags": [
+      "sophistication",
+      "mysterious",
+      "intelligent",
+      "confident",
+      "dreamy",
+      "bold",
+      "deep",
+      "blue",
+      "vibrant",
+      "cobalt",
+      "elegant",
+      "sophisticated"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 6.06,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "trustworthy_reliable",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Deep Purple #4A00F5",
+    "hex": "#4A00F5",
+    "hue": 258.1,
+    "saturation": 100.0,
+    "lightness": 48.0,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "sports_fitness",
+      "food_beverage",
+      "tech_startup",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "majestic",
+      "royalty",
+      "mysterious",
+      "enigmatic",
+      "elegant",
+      "powerful",
+      "intense",
+      "vibrant",
+      "luxury",
+      "creative",
+      "spirituality"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 8.05,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "bold_energetic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Medium Purple (#6A00F6)",
+    "hex": "#6A00F6",
+    "hue": 265.9,
+    "saturation": 100.0,
+    "lightness": 48.2,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "vibrant",
+      "expressive",
+      "ardent",
+      "energetic",
+      "exciting",
+      "deep",
+      "purple",
+      "intense",
+      "bold",
+      "spiritual"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.13,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Indigo Purple (#6D00D7)",
+    "hex": "#6D00D7",
+    "hue": 270.4,
+    "saturation": 100.0,
+    "lightness": 42.2,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "tech_startup",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "majestic",
+      "mysterious",
+      "spiritual",
+      "introspective",
+      "creative",
+      "enigmatic",
+      "dreamy",
+      "elegant",
+      "royal",
+      "deep",
+      "cosmic",
+      "regal"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.98,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "MediumPurpleDeepFuchsia",
+    "hex": "#AF3DFF",
+    "hue": 275.3,
+    "saturation": 100.0,
+    "lightness": 62.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "exciting",
+      "bold",
+      "outgoing",
+      "assertive",
+      "playful",
+      "creative",
+      "vibrant",
+      "intense",
+      "passionate",
+      "rebellious",
+      "unique",
+      "eye"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 4.93,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "modern_innovative",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Magenta Violet",
+    "hex": "#CD05FF",
+    "hue": 288.0,
+    "saturation": 100.0,
+    "lightness": 51.0,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional",
+      "sports_fitness",
+      "travel_hospitality",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "playful",
+      "creative",
+      "bold",
+      "adventurous",
+      "dreamy",
+      "whimsical",
+      "vibrant",
+      "spiritual",
+      "transition"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.06,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "playful_fun",
+      "modern_innovative",
+      "bold_energetic",
+      "adventurous_daring",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Plum Wine #DE00BC",
+    "hex": "#DE00BC",
+    "hue": 309.2,
+    "saturation": 100.0,
+    "lightness": 43.5,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "intense",
+      "mysterious",
+      "elegant",
+      "exotic",
+      "deep",
+      "purple",
+      "reddish"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 4.83,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "elegant_sophisticated",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Wine Red (#D400AF)",
+    "hex": "#D400AF",
+    "hue": 310.5,
+    "saturation": 100.0,
+    "lightness": 41.6,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "bold",
+      "strong",
+      "willed",
+      "energetic",
+      "seductive",
+      "intense",
+      "wine",
+      "deep",
+      "red",
+      "love"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 4.75,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Fuchsia Magenta (#FF26AB)",
+    "hex": "#FF26AB",
+    "hue": 323.2,
+    "saturation": 100.0,
+    "lightness": 57.5,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "bold",
+      "outgoing",
+      "dynamic",
+      "exciting",
+      "spirited",
+      "vibrant",
+      "energetic",
+      "intense",
+      "bright",
+      "attention"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.12,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Fuchsia Rose (#FF1BB5)",
+    "hex": "#FF1BB5",
+    "hue": 319.5,
+    "saturation": 100.0,
+    "lightness": 55.3,
+    "target_users": [
+      "kids",
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "excitement",
+      "passion",
+      "playfulness",
+      "bold",
+      "lively",
+      "flamboyant",
+      "energetic",
+      "spirited",
+      "vibrant",
+      "intense",
+      "playful",
+      "creative"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.08,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Dark Cherry Red",
+    "hex": "#CE003C",
+    "hue": 342.5,
+    "saturation": 100.0,
+    "lightness": 40.4,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "bold",
+      "daring",
+      "intense",
+      "invigorating",
+      "dark",
+      "deep",
+      "red",
+      "cherry"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.69,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "#D3004A (Hex Code)",
+    "hex": "#D3004A",
+    "hue": 339.0,
+    "saturation": 100.0,
+    "lightness": 41.4,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "finance_professional"
+    ],
+    "tags": [
+      "passion",
+      "energy",
+      "love",
+      "anger",
+      "bold",
+      "confident",
+      "dynamic",
+      "intense",
+      "exciting",
+      "powerful",
+      "power",
+      "danger"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.43,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Scarlet Red (#C5001F)",
+    "hex": "#C5001F",
+    "hue": 350.6,
+    "saturation": 100.0,
+    "lightness": 38.6,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "passionate",
+      "powerful",
+      "fiery",
+      "determined",
+      "energetic",
+      "dramatic",
+      "intense",
+      "bold",
+      "vivid",
+      "love",
+      "courage",
+      "sacrifice"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 6.19,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Maroon (#CB0015)",
+    "hex": "#CB0015",
+    "hue": 353.8,
+    "saturation": 100.0,
+    "lightness": 39.8,
+    "target_users": [
+      "teens"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "passionate",
+      "intense",
+      "dramatic",
+      "determined",
+      "resilient",
+      "strong",
+      "willed",
+      "powerful",
+      "dynamic",
+      "bold",
+      "deep",
+      "warm"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.92,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Maroon (#881D18)",
+    "hex": "#881D18",
+    "hue": 2.7,
+    "saturation": 70.0,
+    "lightness": 31.4,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "fashion_beauty",
+      "finance_professional",
+      "creative_arts",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "intense",
+      "dramatic",
+      "determined",
+      "resilient",
+      "warm",
+      "rich",
+      "deep",
+      "dark",
+      "red",
+      "brown",
+      "strong",
+      "harvest"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 9.39,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Orangey Brown (DB5633)",
+    "hex": "#DB5633",
+    "hue": 12.5,
+    "saturation": 70.0,
+    "lightness": 52.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "energy",
+      "warmth",
+      "passion",
+      "friendliness",
+      "vibrant",
+      "spirited",
+      "down",
+      "earth",
+      "cozy",
+      "inviting",
+      "exciting",
+      "warm"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.39,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Marigold Orange",
+    "hex": "#D75126",
+    "hue": 14.6,
+    "saturation": 70.0,
+    "lightness": 49.6,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "kids_toys",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "energy",
+      "warmth",
+      "passion",
+      "bold",
+      "spirited",
+      "vibrant",
+      "sunny",
+      "invigorating",
+      "bright",
+      "warm",
+      "courage",
+      "endurance"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.09,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "playful_fun",
+      "natural_earthy",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Burnt Sienna (#BB6421)",
+    "hex": "#BB6421",
+    "hue": 26.1,
+    "saturation": 70.0,
+    "lightness": 43.1,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "sports_fitness",
+      "entertainment_media",
+      "fashion_beauty",
+      "finance_professional",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "warmth",
+      "passion",
+      "vibrant",
+      "strong",
+      "willed",
+      "inviting",
+      "bold",
+      "warm",
+      "rich",
+      "earthy"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 4.96,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "warm_friendly",
+      "bold_energetic",
+      "elegant_sophisticated",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Sand gold",
+    "hex": "#DB5D33",
+    "hue": 15.0,
+    "saturation": 70.0,
+    "lightness": 52.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "finance_professional",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "energy",
+      "warmth",
+      "enthusiasm",
+      "bold",
+      "confident",
+      "dynamic",
+      "sunny",
+      "cheerful",
+      "optimistic",
+      "warm",
+      "vibrant",
+      "sandy"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.63,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "trustworthy_reliable",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Burnt Sienna (#CC5324)",
+    "hex": "#CC5324",
+    "hue": 16.8,
+    "saturation": 70.0,
+    "lightness": 47.1,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "passionate",
+      "bold",
+      "fiery",
+      "determined",
+      "warm",
+      "vibrant",
+      "earthy"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 4.83,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "warm_friendly",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Saffron",
+    "hex": "#AA6F1E",
+    "hue": 34.7,
+    "saturation": 70.0,
+    "lightness": 39.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "health_wellness",
+      "education"
+    ],
+    "tags": [
+      "energy",
+      "vitality",
+      "adventurous",
+      "spontaneous",
+      "sunny",
+      "warm",
+      "vibrant",
+      "bold",
+      "sunshine",
+      "autumn",
+      "harvest",
+      "spice"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.0,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "natural_earthy",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Burnt Sienna (#93701A)",
+    "hex": "#93701A",
+    "hue": 42.6,
+    "saturation": 69.9,
+    "lightness": 33.9,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "finance_professional",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "warmth",
+      "coziness",
+      "reliable",
+      "earthy",
+      "comforting",
+      "autumnal",
+      "brown",
+      "orange",
+      "amber",
+      "warm",
+      "cozy",
+      "autumn"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 4.59,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "warm_friendly",
+      "trustworthy_reliable",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Gold Ochre",
+    "hex": "#C09422",
+    "hue": 43.3,
+    "saturation": 69.9,
+    "lightness": 44.3,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "fashion_beauty",
+      "finance_professional",
+      "entertainment_media",
+      "creative_arts",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "warmth",
+      "richness",
+      "stability",
+      "trustworthy",
+      "reliable",
+      "wise",
+      "cozy",
+      "inviting",
+      "comfortable",
+      "earthy",
+      "warm",
+      "rich"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.5,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "elegant_sophisticated",
+      "trustworthy_reliable",
+      "mysterious_dramatic",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Dark Olive Green (#55520F)",
+    "hex": "#55520F",
+    "hue": 57.4,
+    "saturation": 70.0,
+    "lightness": 19.6,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "food_beverage",
+      "retail_ecommerce",
+      "finance_professional",
+      "education",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "groundedness",
+      "stability",
+      "security",
+      "resilient",
+      "dependable",
+      "nature",
+      "loving",
+      "warm",
+      "rustic",
+      "olive",
+      "green",
+      "earthy"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 8.08,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "natural_earthy",
+      "trustworthy_reliable",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Honey Gold",
+    "hex": "#99971B",
+    "hue": 59.0,
+    "saturation": 70.0,
+    "lightness": 35.3,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "retail_ecommerce",
+      "fashion_beauty",
+      "finance_professional"
+    ],
+    "tags": [
+      "comfortable",
+      "cozy",
+      "inviting",
+      "warm",
+      "friendly",
+      "approachable",
+      "sunny",
+      "serene",
+      "comforting",
+      "golden",
+      "amber",
+      "sophisticated"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.8,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "warm_friendly",
+      "natural_earthy",
+      "calm_serene",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Gold Yellowish Brown (approximate)",
+    "hex": "#B5A520",
+    "hue": 53.6,
+    "saturation": 70.0,
+    "lightness": 41.8,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "fashion_beauty",
+      "finance_professional",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "warmth",
+      "richness",
+      "stability",
+      "reliable",
+      "trustworthy",
+      "luxurious",
+      "elegant",
+      "inviting",
+      "comfortable",
+      "gold",
+      "brown",
+      "earthy"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 8.37,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "elegant_sophisticated",
+      "trustworthy_reliable",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Dark Olive Green (#52550F)",
+    "hex": "#52550F",
+    "hue": 62.6,
+    "saturation": 70.0,
+    "lightness": 19.6,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calm",
+      "stable",
+      "reliable",
+      "grounded",
+      "earthy",
+      "warm",
+      "olive",
+      "green",
+      "natural"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.88,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "natural_earthy",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Cedar Green",
+    "hex": "#CEDB33",
+    "hue": 64.6,
+    "saturation": 70.0,
+    "lightness": 52.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "food_beverage",
+      "travel_hospitality",
+      "education",
+      "health_wellness",
+      "finance_professional",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "warmth",
+      "friendliness",
+      "approachable",
+      "comforting",
+      "reliable",
+      "cozy",
+      "inviting",
+      "warm",
+      "green",
+      "yellow",
+      "natural",
+      "friendly"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 13.8,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "warm_friendly",
+      "trustworthy_reliable",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Dandelion Yellow",
+    "hex": "#D1D726",
+    "hue": 62.0,
+    "saturation": 70.0,
+    "lightness": 49.6,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "travel_hospitality",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "joyful",
+      "optimistic",
+      "vibrant",
+      "radiant",
+      "cheerful",
+      "warm",
+      "inviting",
+      "sunny",
+      "bright",
+      "pastel"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 13.46,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "warm_friendly",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Sage Green (#86AA1E)",
+    "hex": "#86AA1E",
+    "hue": 75.4,
+    "saturation": 70.0,
+    "lightness": 39.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calmness",
+      "harmony",
+      "tranquility",
+      "wisdom",
+      "patience",
+      "nurturing",
+      "spirit",
+      "fresh",
+      "earthy",
+      "inviting",
+      "pastel",
+      "green"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.78,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "mysterious_dramatic",
+      "warm_friendly",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Greenish Yellow (Spring Green)",
+    "hex": "#95DB33",
+    "hue": 85.0,
+    "saturation": 70.0,
+    "lightness": 52.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys"
+    ],
+    "tags": [
+      "vitality",
+      "energy",
+      "growth",
+      "optimistic",
+      "youthful",
+      "vibrant",
+      "fresh",
+      "invigorating",
+      "uplifting",
+      "bright",
+      "nature",
+      "spring"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.46,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun"
+    ]
+  },
+  {
+    "name": "Lime Green (#ADDC39)",
+    "hex": "#ADDC39",
+    "hue": 77.3,
+    "saturation": 70.0,
+    "lightness": 54.3,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "energetic",
+      "fresh",
+      "spirited",
+      "vital",
+      "youthful",
+      "exciting",
+      "energy",
+      "freshness",
+      "growth",
+      "nature",
+      "vitality",
+      "technology"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 13.07,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Sage Green (#25440C)",
+    "hex": "#25440C",
+    "hue": 93.2,
+    "saturation": 70.0,
+    "lightness": 15.7,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "food_beverage",
+      "retail_ecommerce",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "calm",
+      "serene",
+      "reliable",
+      "steady",
+      "grounding",
+      "earthy",
+      "comfortable",
+      "tranquil",
+      "muted",
+      "green",
+      "dark",
+      "natural"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 10.99,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "natural_earthy",
+      "warm_friendly",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Lime Green (#62AA1E)",
+    "hex": "#62AA1E",
+    "hue": 90.9,
+    "saturation": 70.0,
+    "lightness": 39.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "kids_toys",
+      "retail_ecommerce",
+      "health_wellness"
+    ],
+    "tags": [
+      "excitement",
+      "energy",
+      "vital",
+      "spirited",
+      "radiant",
+      "cheerful",
+      "funky",
+      "bright",
+      "lively",
+      "vibrant",
+      "fresh",
+      "energetic"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.29,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Green-Yellow (Spring Green)",
+    "hex": "#47A41D",
+    "hue": 101.3,
+    "saturation": 70.0,
+    "lightness": 37.8,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "entertainment_media"
+    ],
+    "tags": [
+      "optimism",
+      "freshness",
+      "renewal",
+      "vital",
+      "energetic",
+      "fertile",
+      "invigorating",
+      "uplifting",
+      "vibrant",
+      "nature",
+      "spring",
+      "fresh"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.6,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "natural_earthy",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Lime Green (#30AA1E)",
+    "hex": "#30AA1E",
+    "hue": 112.3,
+    "saturation": 70.0,
+    "lightness": 39.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "health_wellness",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "joyful",
+      "energetic",
+      "spirited",
+      "funky",
+      "bubbly",
+      "invigorating",
+      "vibrant",
+      "fresh",
+      "modern",
+      "energy",
+      "nature",
+      "spring"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.89,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic",
+      "natural_earthy",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Forest Green (#1E6612)",
+    "hex": "#1E6612",
+    "hue": 111.4,
+    "saturation": 70.0,
+    "lightness": 23.5,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calm",
+      "serene",
+      "grounded",
+      "resilient",
+      "nurturing",
+      "naturalist",
+      "earthy",
+      "relaxing",
+      "organic",
+      "forest",
+      "green",
+      "nature"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.08,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "natural_earthy",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Emerald Green (#1F6612)",
+    "hex": "#1F6612",
+    "hue": 110.7,
+    "saturation": 70.0,
+    "lightness": 23.5,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "education",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "energy",
+      "growth",
+      "harmony",
+      "vital",
+      "energetic",
+      "balanced",
+      "fresh",
+      "invigorating",
+      "exciting",
+      "vibrant",
+      "emerald",
+      "prosperous"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.08,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Green-Teal (Sage Green)",
+    "hex": "#1A9326",
+    "hue": 126.0,
+    "saturation": 69.9,
+    "lightness": 33.9,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "peaceful",
+      "harmonious",
+      "calm",
+      "reliable",
+      "trustworthy",
+      "tranquil",
+      "soothing",
+      "natural",
+      "fresh",
+      "vibrant",
+      "growth",
+      "nature"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.25,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Green (specifically Lime Green)",
+    "hex": "#25D148",
+    "hue": 132.2,
+    "saturation": 69.9,
+    "lightness": 48.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "energy",
+      "excitement",
+      "freshness",
+      "bold",
+      "vibrant",
+      "energetic",
+      "uplifting",
+      "invigorating",
+      "bright",
+      "lime",
+      "fresh",
+      "growth"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 10.29,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Forest Green (#116020)",
+    "hex": "#116020",
+    "hue": 131.4,
+    "saturation": 69.9,
+    "lightness": 22.2,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "food_beverage",
+      "retail_ecommerce",
+      "finance_professional",
+      "sports_fitness",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "calmness",
+      "nature",
+      "serenity",
+      "reliable",
+      "grounded",
+      "strong",
+      "earthy",
+      "comforting",
+      "stable",
+      "dark",
+      "green",
+      "forest"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.73,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "natural_earthy",
+      "trustworthy_reliable",
+      "bold_energetic",
+      "warm_friendly",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Green Olive",
+    "hex": "#15773A",
+    "hue": 142.7,
+    "saturation": 70.0,
+    "lightness": 27.4,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calmness",
+      "relaxation",
+      "tranquility",
+      "steadfast",
+      "dependable",
+      "resilient",
+      "serene",
+      "grounded",
+      "earthy",
+      "saturated",
+      "olive",
+      "natural"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.63,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Emerald Green (#1B9955)",
+    "hex": "#1B9955",
+    "hue": 147.6,
+    "saturation": 70.0,
+    "lightness": 35.3,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "health_wellness",
+      "retail_ecommerce",
+      "kids_toys",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "vitality",
+      "freshness",
+      "vibrant",
+      "lively",
+      "invigorating",
+      "exciting",
+      "fresh",
+      "growth",
+      "prosperous",
+      "branding",
+      "design"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.73,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "natural_earthy",
+      "playful_fun",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Sage Green (#126639)",
+    "hex": "#126639",
+    "hue": 147.9,
+    "saturation": 70.0,
+    "lightness": 23.5,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "food_beverage",
+      "retail_ecommerce",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "calm",
+      "serene",
+      "reliable",
+      "grounded",
+      "wise",
+      "earthy",
+      "tranquil",
+      "muted",
+      "natural",
+      "grounding",
+      "organic"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.03,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "natural_earthy",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Emerald Green (#157751)",
+    "hex": "#157751",
+    "hue": 156.7,
+    "saturation": 70.0,
+    "lightness": 27.4,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "fashion_beauty",
+      "finance_professional"
+    ],
+    "tags": [
+      "calm",
+      "peaceful",
+      "luxurious",
+      "resilient",
+      "loyal",
+      "sophisticated",
+      "elegant",
+      "exclusive",
+      "affluent",
+      "vibrant",
+      "rich",
+      "green"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.54,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "elegant_sophisticated",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "Sage Green (#1B9976)",
+    "hex": "#1B9976",
+    "hue": 163.3,
+    "saturation": 70.0,
+    "lightness": 35.3,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "tranquility",
+      "renewal",
+      "peaceful",
+      "relaxing",
+      "natural",
+      "calm",
+      "fresh",
+      "vitalizing",
+      "green",
+      "sage",
+      "nature",
+      "vitality"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.86,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Sea Green",
+    "hex": "#44DEAE",
+    "hue": 161.3,
+    "saturation": 70.0,
+    "lightness": 56.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "food_beverage",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calmness",
+      "peacefulness",
+      "tranquility",
+      "nurturing",
+      "soothing",
+      "balanced",
+      "relaxing",
+      "refreshing",
+      "pastel",
+      "vibrant",
+      "calm",
+      "nature"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.31,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "warm_friendly",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Cyansky (Not an official color name, a combination of Sky Blue and Cyan)",
+    "hex": "#44DEC2",
+    "hue": 169.1,
+    "saturation": 70.0,
+    "lightness": 56.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "food_beverage"
+    ],
+    "tags": [
+      "serene",
+      "calm",
+      "intellectual",
+      "creative",
+      "refreshing",
+      "invigorating",
+      "modern",
+      "high",
+      "tech",
+      "fresh",
+      "tranquil"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.47,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "modern_innovative",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "HEX #188887",
+    "hex": "#188887",
+    "hue": 179.5,
+    "saturation": 70.0,
+    "lightness": 31.4,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional"
+    ],
+    "tags": [
+      "calm",
+      "serene",
+      "professional",
+      "reliable",
+      "dependable",
+      "trustworthy",
+      "cool",
+      "balanced",
+      "stable",
+      "cyan",
+      "greenish",
+      "blue"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 4.91,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable"
+    ]
+  },
+  {
+    "name": "#28D9B3 (Hexadecimal) or Medium Spring Green (HTML color name)",
+    "hex": "#28D9B3",
+    "hue": 167.1,
+    "saturation": 70.0,
+    "lightness": 50.4,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "health_wellness"
+    ],
+    "tags": [
+      "energetic",
+      "invigorating",
+      "vibrant",
+      "optimistic",
+      "fresh",
+      "playful",
+      "revitalizing",
+      "refreshing",
+      "green",
+      "pastel",
+      "spring",
+      "summer"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 11.67,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "playful_fun",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Teal Blue",
+    "hex": "#4ADCDF",
+    "hue": 181.2,
+    "saturation": 70.0,
+    "lightness": 58.2,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "food_beverage"
+    ],
+    "tags": [
+      "energetic",
+      "calm",
+      "intuitive",
+      "creative",
+      "reliable",
+      "cool",
+      "freshening",
+      "digital",
+      "technology",
+      "fresh",
+      "calming",
+      "vibrant"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 12.59,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "mysterious_dramatic",
+      "modern_innovative",
+      "trustworthy_reliable",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "#177182 (Hexadecimal Dark Sea Green)",
+    "hex": "#177182",
+    "hue": 189.5,
+    "saturation": 69.9,
+    "lightness": 30.0,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "food_beverage",
+      "retail_ecommerce",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "serene",
+      "calm",
+      "reliable",
+      "trustworthy",
+      "steady",
+      "grounded",
+      "stable",
+      "secure",
+      "comforting",
+      "dark",
+      "green",
+      "deep"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.64,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "natural_earthy",
+      "warm_friendly",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Teal (Turquoise-Blue)",
+    "hex": "#25ADD1",
+    "hue": 192.6,
+    "saturation": 69.9,
+    "lightness": 48.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "food_beverage",
+      "retail_ecommerce",
+      "finance_professional",
+      "tech_startup"
+    ],
+    "tags": [
+      "serene",
+      "calm",
+      "refreshing",
+      "reliable",
+      "dependable",
+      "creative",
+      "cool",
+      "fresh",
+      "invigorating",
+      "vibrant",
+      "modern",
+      "ocean"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 7.98,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "natural_earthy",
+      "trustworthy_reliable",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Sapphire Blue (#339BDB)",
+    "hex": "#339BDB",
+    "hue": 202.9,
+    "saturation": 70.0,
+    "lightness": 52.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "sports_fitness",
+      "food_beverage"
+    ],
+    "tags": [
+      "calmness",
+      "trustworthiness",
+      "reliable",
+      "mysterious",
+      "strong",
+      "sophisticated",
+      "elegant",
+      "blue",
+      "deep",
+      "sapphire",
+      "trustworthy",
+      "professional"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.85,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "mysterious_dramatic",
+      "bold_energetic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "#2694D7, also known as Deep Teal or Marine Blue",
+    "hex": "#2694D7",
+    "hue": 202.7,
+    "saturation": 70.0,
+    "lightness": 49.6,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "sports_fitness",
+      "retail_ecommerce",
+      "finance_professional",
+      "tech_startup",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "energetic",
+      "calm",
+      "inspiring",
+      "adventurous",
+      "dependable",
+      "creative",
+      "exciting",
+      "relaxing",
+      "vibrant",
+      "cool",
+      "deep",
+      "modern"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 6.3,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "adventurous_daring",
+      "trustworthy_reliable",
+      "modern_innovative",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "#268FD7 (Deep Cobalt Blue)",
+    "hex": "#268FD7",
+    "hue": 204.4,
+    "saturation": 70.0,
+    "lightness": 49.6,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "finance_professional",
+      "education",
+      "health_wellness",
+      "tech_startup",
+      "retail_ecommerce",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "vibrancy",
+      "energy",
+      "confidence",
+      "persistent",
+      "reliable",
+      "visionary",
+      "freshening",
+      "invigorating",
+      "innovative",
+      "blue",
+      "deep",
+      "vibrant"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.99,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "trustworthy_reliable",
+      "modern_innovative",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "#2151BB (Hexadecimal: 21 51 BB)",
+    "hex": "#2151BB",
+    "hue": 221.3,
+    "saturation": 70.0,
+    "lightness": 43.1,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional"
+    ],
+    "tags": [
+      "serene",
+      "calm",
+      "profound",
+      "mysterious",
+      "intense",
+      "dependable",
+      "elegant",
+      "trustworthy",
+      "reliable",
+      "deep",
+      "blue",
+      "professional"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.1,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "calm_serene",
+      "mysterious_dramatic",
+      "trustworthy_reliable",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Deep Cobalt Blue (#1E50AA)",
+    "hex": "#1E50AA",
+    "hue": 218.6,
+    "saturation": 70.0,
+    "lightness": 39.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "finance_professional",
+      "education",
+      "health_wellness",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "trust",
+      "loyalty",
+      "wisdom",
+      "steadfast",
+      "reliable",
+      "intuitive",
+      "calm",
+      "dependable",
+      "mysterious",
+      "trustworthy",
+      "stable",
+      "deep"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.55,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "trustworthy_reliable",
+      "mysterious_dramatic",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Indigo (Dark) (#1E56AA)",
+    "hex": "#1E56AA",
+    "hue": 216.0,
+    "saturation": 70.0,
+    "lightness": 39.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional"
+    ],
+    "tags": [
+      "mysterious",
+      "introspective",
+      "insightful",
+      "serene",
+      "yet",
+      "enigmatic",
+      "deep",
+      "blue",
+      "dark",
+      "indigo",
+      "mystical",
+      "luxurious"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.08,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "mysterious_dramatic",
+      "calm_serene",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Medium Cyan",
+    "hex": "#335ADB",
+    "hue": 226.1,
+    "saturation": 70.0,
+    "lightness": 52.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "food_beverage"
+    ],
+    "tags": [
+      "peaceful",
+      "innovative",
+      "intellectual",
+      "refreshing",
+      "technological",
+      "futuristic",
+      "technology",
+      "data",
+      "progress",
+      "digital",
+      "cool",
+      "clean"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.79,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "modern_innovative",
+      "natural_earthy"
+    ]
+  },
+  {
+    "name": "Indigo (Dark) (#4A68DF)",
+    "hex": "#4A68DF",
+    "hue": 227.9,
+    "saturation": 70.0,
+    "lightness": 58.2,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "health_wellness",
+      "education",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "intelligent",
+      "thoughtful",
+      "spiritual",
+      "mysterious",
+      "insightful",
+      "profound",
+      "were",
+      "person",
+      "this",
+      "color",
+      "would",
+      "quiet"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 4.84,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "mysterious_dramatic",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Deep Cobalt Blue (#4A5ADF)",
+    "hex": "#4A5ADF",
+    "hue": 233.6,
+    "saturation": 70.0,
+    "lightness": 58.2,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "tech_startup",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "calm",
+      "trustworthy",
+      "reliable",
+      "mysterious",
+      "serene",
+      "professional",
+      "deep",
+      "cobalt",
+      "blue",
+      "technology",
+      "high",
+      "end"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.5,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "calm_serene",
+      "trustworthy_reliable",
+      "mysterious_dramatic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Indigo Deep",
+    "hex": "#3433DB",
+    "hue": 240.4,
+    "saturation": 70.0,
+    "lightness": 52.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "tech_startup",
+      "retail_ecommerce",
+      "sports_fitness",
+      "food_beverage"
+    ],
+    "tags": [
+      "majestic",
+      "mysterious",
+      "introspective",
+      "creative",
+      "visionary",
+      "dreamy",
+      "enigmatic",
+      "deep",
+      "vibrant",
+      "intuitive",
+      "spiritual",
+      "tech"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.95,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "modern_innovative",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Dark Indigo",
+    "hex": "#3128D9",
+    "hue": 243.1,
+    "saturation": 70.0,
+    "lightness": 50.4,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "health_wellness",
+      "education",
+      "tech_startup",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "elegant",
+      "sophistication",
+      "mysterious",
+      "intense",
+      "serene",
+      "dynamic",
+      "luxury",
+      "sophisticated",
+      "cosmic",
+      "creative",
+      "formal"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 8.62,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "calm_serene",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Indigo (Dark) (#2625D1)",
+    "hex": "#2625D1",
+    "hue": 240.3,
+    "saturation": 69.9,
+    "lightness": 48.2,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "sports_fitness",
+      "food_beverage",
+      "health_wellness",
+      "education",
+      "travel_hospitality",
+      "finance_professional",
+      "tech_startup",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "mystical",
+      "intense",
+      "wise",
+      "enigmatic",
+      "profound",
+      "thoughtful",
+      "contemplative",
+      "reflective",
+      "deep",
+      "spiritual",
+      "luxurious",
+      "technology"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 9.26,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "mysterious_dramatic",
+      "bold_energetic",
+      "calm_serene",
+      "elegant_sophisticated",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Deep Purple",
+    "hex": "#6F44DE",
+    "hue": 256.8,
+    "saturation": 70.0,
+    "lightness": 56.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "sports_fitness",
+      "food_beverage"
+    ],
+    "tags": [
+      "mysterious",
+      "luxurious",
+      "secretive",
+      "majestic",
+      "enigmatic",
+      "intense",
+      "deep",
+      "purple",
+      "wisdom",
+      "spirituality",
+      "royalty",
+      "high"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.9,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "mysterious_dramatic",
+      "elegant_sophisticated",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Indigo Purple (#6722C0)",
+    "hex": "#6722C0",
+    "hue": 266.2,
+    "saturation": 69.9,
+    "lightness": 44.3,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "sports_fitness",
+      "food_beverage"
+    ],
+    "tags": [
+      "majestic",
+      "regal",
+      "mysterious",
+      "intense",
+      "elegant",
+      "powerful",
+      "royal",
+      "wisdom",
+      "intuition",
+      "mystical"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 8.18,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "bold_energetic"
+    ]
+  },
+  {
+    "name": "Medium Purple (#5B1FAF)",
+    "hex": "#5B1FAF",
+    "hue": 265.0,
+    "saturation": 69.9,
+    "lightness": 40.4,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "entertainment_media",
+      "creative_arts",
+      "tech_startup",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "majestic",
+      "regal",
+      "mysterious",
+      "enigmatic",
+      "royal",
+      "elegant",
+      "creative",
+      "intuitive",
+      "luxury",
+      "high",
+      "end",
+      "fashion"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 9.29,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "elegant_sophisticated",
+      "mysterious_dramatic",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Indigo Violet",
+    "hex": "#9D44DE",
+    "hue": 274.7,
+    "saturation": 70.0,
+    "lightness": 56.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "finance_professional",
+      "tech_startup"
+    ],
+    "tags": [
+      "passionate",
+      "mysterious",
+      "intense",
+      "alluring",
+      "enigmatic",
+      "dramatic",
+      "exotic",
+      "luxury",
+      "creative",
+      "spirituality",
+      "intuitive",
+      "technology"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 4.87,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "adventurous_daring",
+      "elegant_sophisticated",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Medium Purple (#994ADF)",
+    "hex": "#994ADF",
+    "hue": 271.8,
+    "saturation": 70.0,
+    "lightness": 58.2,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "tech_startup",
+      "finance_professional",
+      "retail_ecommerce",
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "creative",
+      "intuitive",
+      "mystical",
+      "enigmatic",
+      "dreamy",
+      "majestic",
+      "spiritual",
+      "violet",
+      "purple",
+      "artistic"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 4.77,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "modern_innovative",
+      "mysterious_dramatic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Indigo Purple (#731A93)",
+    "hex": "#731A93",
+    "hue": 284.1,
+    "saturation": 69.9,
+    "lightness": 33.9,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "sports_fitness",
+      "food_beverage",
+      "finance_professional",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "mysterious",
+      "intense",
+      "secretive",
+      "enigmatic",
+      "elegant",
+      "dramatic",
+      "deep",
+      "rich",
+      "wisdom",
+      "intuition",
+      "unknown",
+      "sophisticated"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 9.14,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "mysterious_dramatic",
+      "bold_energetic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Purple-Red",
+    "hex": "#B221BB",
+    "hue": 296.5,
+    "saturation": 70.0,
+    "lightness": 43.1,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "finance_professional",
+      "education",
+      "health_wellness",
+      "kids_toys",
+      "retail_ecommerce",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "bold",
+      "energetic",
+      "confident",
+      "outgoing",
+      "individual",
+      "who",
+      "stands",
+      "out",
+      "crowd",
+      "exciting"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.49,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "trustworthy_reliable",
+      "playful_fun",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Medium Violet Red",
+    "hex": "#CB24CC",
+    "hue": 299.6,
+    "saturation": 70.0,
+    "lightness": 47.1,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "bold",
+      "fiery",
+      "unconventional",
+      "energetic",
+      "exciting",
+      "intense",
+      "vibrant",
+      "creative"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 4.66,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Wisteria Violet",
+    "hex": "#9E1FAF",
+    "hue": 292.9,
+    "saturation": 69.9,
+    "lightness": 40.4,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "entertainment_media",
+      "creative_arts",
+      "fashion_beauty",
+      "kids_toys",
+      "food_beverage",
+      "retail_ecommerce",
+      "finance_professional",
+      "travel_hospitality",
+      "tech_startup",
+      "health_wellness",
+      "education"
+    ],
+    "tags": [
+      "mysterious",
+      "captivating",
+      "whimsical",
+      "elegant",
+      "dreamy",
+      "enchanting",
+      "pastel",
+      "purple",
+      "creative",
+      "soft",
+      "spiritual"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 6.42,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "mysterious_dramatic",
+      "playful_fun",
+      "elegant_sophisticated",
+      "modern_innovative",
+      "calm_serene"
+    ]
+  },
+  {
+    "name": "Wine Red (#991B88)",
+    "hex": "#991B88",
+    "hue": 308.1,
+    "saturation": 70.0,
+    "lightness": 35.3,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "creative_arts"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "intense",
+      "dynamic",
+      "bold",
+      "charismatic",
+      "luxurious",
+      "elegant",
+      "sophisticated",
+      "deep",
+      "rich",
+      "red"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 7.33,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "elegant_sophisticated",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Deep Purple (#DE44DA)",
+    "hex": "#DE44DA",
+    "hue": 301.6,
+    "saturation": 70.0,
+    "lightness": 56.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "travel_hospitality",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "mysterious",
+      "expressive",
+      "bold",
+      "dreamy",
+      "energetic",
+      "daring",
+      "deep",
+      "intense",
+      "vibrant",
+      "purple"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.95,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Deep Plum",
+    "hex": "#D928B8",
+    "hue": 311.2,
+    "saturation": 70.0,
+    "lightness": 50.4,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "tech_startup"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "mysterious",
+      "intense",
+      "elegant",
+      "exotic",
+      "purple",
+      "magenta",
+      "bold",
+      "luxurious",
+      "spiritual",
+      "creative"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 4.95,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "elegant_sophisticated",
+      "adventurous_daring",
+      "modern_innovative"
+    ]
+  },
+  {
+    "name": "Maroonish Purple",
+    "hex": "#C62387",
+    "hue": 323.2,
+    "saturation": 70.0,
+    "lightness": 45.7,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "bold",
+      "assertive",
+      "energetic",
+      "expressive",
+      "intense",
+      "deep",
+      "luxurious"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 5.26,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Magenta-Red",
+    "hex": "#D72680",
+    "hue": 329.5,
+    "saturation": 70.0,
+    "lightness": 49.6,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "tech_startup",
+      "finance_professional",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "bold",
+      "daring",
+      "exciting",
+      "energetic",
+      "vibrant",
+      "intense",
+      "creative",
+      "expressive",
+      "innovative",
+      "love"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 4.69,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "modern_innovative",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Dusky Fuchsia",
+    "hex": "#DF4AA6",
+    "hue": 322.9,
+    "saturation": 70.0,
+    "lightness": 58.2,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "kids_toys",
+      "entertainment_media",
+      "food_beverage",
+      "retail_ecommerce",
+      "sports_fitness",
+      "tech_startup",
+      "finance_professional",
+      "creative_arts",
+      "fashion_beauty"
+    ],
+    "tags": [
+      "playful",
+      "passionate",
+      "vibrant",
+      "bold",
+      "expressive",
+      "lively",
+      "exciting",
+      "creative",
+      "spiritual",
+      "energetic",
+      "youthful"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.67,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "playful_fun",
+      "bold_energetic",
+      "modern_innovative",
+      "mysterious_dramatic"
+    ]
+  },
+  {
+    "name": "Wine Red (#66123A)",
+    "hex": "#66123A",
+    "hue": 331.4,
+    "saturation": 70.0,
+    "lightness": 23.5,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "passionate",
+      "strong",
+      "willed",
+      "mysterious",
+      "dramatic",
+      "intense",
+      "rich",
+      "deep",
+      "elegant",
+      "romantic",
+      "formal",
+      "luxurious"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 12.26,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Maroon Garnet",
+    "hex": "#B5204D",
+    "hue": 341.9,
+    "saturation": 70.0,
+    "lightness": 41.8,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "finance_professional"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "mysterious",
+      "daring",
+      "bold",
+      "intense",
+      "dark",
+      "elegant",
+      "powerful",
+      "deep",
+      "rich"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 6.41,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "adventurous_daring",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Bordeaux Red",
+    "hex": "#931A3F",
+    "hue": 341.6,
+    "saturation": 69.9,
+    "lightness": 33.9,
+    "target_users": [
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "education",
+      "health_wellness"
+    ],
+    "tags": [
+      "dramatic",
+      "intense",
+      "passionate",
+      "mysterious",
+      "sophisticated",
+      "elegant",
+      "luxurious",
+      "exotic",
+      "inviting",
+      "luxury",
+      "rich",
+      "deep"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 8.54,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": true,
+    "personality_category": [
+      "bold_energetic",
+      "mysterious_dramatic",
+      "elegant_sophisticated",
+      "adventurous_daring",
+      "warm_friendly"
+    ]
+  },
+  {
+    "name": "Maroon 212D",
+    "hex": "#BB212D",
+    "hue": 355.3,
+    "saturation": 70.0,
+    "lightness": 43.1,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "fashion_beauty",
+      "finance_professional",
+      "travel_hospitality"
+    ],
+    "tags": [
+      "passionate",
+      "dramatic",
+      "determined",
+      "strong",
+      "willed",
+      "powerful",
+      "bold",
+      "rich",
+      "intense",
+      "formal",
+      "elegant",
+      "luxurious"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 6.23,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "elegant_sophisticated"
+    ]
+  },
+  {
+    "name": "Scarlet Red (#DE444E)",
+    "hex": "#DE444E",
+    "hue": 356.1,
+    "saturation": 70.0,
+    "lightness": 56.9,
+    "target_users": [
+      "kids",
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce"
+    ],
+    "tags": [
+      "passion",
+      "energy",
+      "intensity",
+      "bold",
+      "daring",
+      "assertive",
+      "dramatic",
+      "powerful",
+      "attention",
+      "grabbing",
+      "red",
+      "fiery"
+    ],
+    "recommended_text_color": "black",
+    "contrast_ratio": 5.04,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring"
+    ]
+  },
+  {
+    "name": "Maroon2",
+    "hex": "#BB213F",
+    "hue": 348.3,
+    "saturation": 70.0,
+    "lightness": 43.1,
+    "target_users": [
+      "teens",
+      "adults"
+    ],
+    "industry": [
+      "sports_fitness",
+      "entertainment_media",
+      "food_beverage",
+      "travel_hospitality",
+      "retail_ecommerce",
+      "creative_arts",
+      "fashion_beauty",
+      "finance_professional"
+    ],
+    "tags": [
+      "passionate",
+      "strong",
+      "persistent",
+      "tenacious",
+      "determined",
+      "dynamic",
+      "intense",
+      "deep",
+      "rich",
+      "maroon",
+      "vibrant",
+      "luxury"
+    ],
+    "recommended_text_color": "white",
+    "contrast_ratio": 6.17,
+    "wcag_aa_normal": true,
+    "wcag_aaa_normal": false,
+    "personality_category": [
+      "bold_energetic",
+      "adventurous_daring",
+      "mysterious_dramatic",
+      "elegant_sophisticated"
+    ]
+  }
+]
