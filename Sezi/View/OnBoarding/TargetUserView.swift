@@ -12,39 +12,48 @@ struct TargetUserView: View {
     @State private var progress = 0.3
     
     var body: some View {
-        VStack(alignment: .leading, spacing: 10) {
-            ProgressView(value: progress)
-                .tint(Color.tertiaryColors)
+        ZStack {
+            Color.backgroundColors
+                .ignoresSafeArea()
             
-            Text("Who is your target user?")
-                .font(.system(size: 24, weight: .bold))
-            
-            VStack {
-                ForEach(TargetUser.allTarget, id: \.id) { target in
-                    TargetUserCard(
-                        target: target,
-                        isSelected: viewModel.selectedTargetUser?.id == target.id)
+            VStack(alignment: .leading, spacing: 10) {
+                ProgressView(value: progress)
+                    .tint(Color.tertiaryColors)
+                
+                Text("Who is your app's target user?")
+                    .font(.system(size: 24, weight: .bold))
+                    .padding(.vertical, 10)
+                
+                VStack(spacing: 4) {
+                    ForEach(TargetUser.allTarget, id: \.id) { target in
+                        TargetUserCard(
+                            target: target,
+                            isSelected: viewModel.selectedTargetUser?.id == target.id
+                        )
+                        .opacity(viewModel.selectedTargetUser == nil || viewModel.selectedTargetUser?.id == target.id ? 1.0 : 0.4)
                         .onTapGesture {
-                            viewModel.selectedTargetUser = target
+                            viewModel.toggleTarget(target)
                         }
+                    }
                 }
+                
+                Spacer()
+                
+                NavigationLink(value: OnBoardingRoute.industry) {
+                    Text("Continue")
+                        .bold()
+                        .padding(7)
+                        .foregroundStyle(Color.backgroundColors)
+                        .frame(maxWidth: .infinity)
+                }
+                .buttonStyle(.glassProminent)
+                .tint(Color.primaryColors)
+                .disabled(viewModel.selectedTargetUser == nil)
+                
             }
-            
-            NavigationLink {
-                IndustryView(viewModel: viewModel)
-            } label: {
-                Text("Continue")
-                    .bold()
-                    .foregroundStyle(Color.backgroundColors)
-            }
-            .buttonStyle(.glassProminent)
-            .tint(Color.primaryColors)
-            .frame(maxWidth: .infinity, alignment: .center)
-            .disabled(viewModel.selectedTargetUser == nil)
-            
+            .padding(20)
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
         }
-        .padding()
-        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
     }
 }
 

@@ -16,8 +16,18 @@ struct Personality {
 
 extension Personality {
     static let allPersonality: [Personality] = [
-        Personality(displayName: "Tech/Saas", image: "tech", key: "tech_startup"),
-        Personality(displayName: "Finance/Fintech", image: "finance", key: "finance_professional"),
-        Personality(displayName: "Health/Wellness", image: "health", key: "health_wellness"),
+        Personality(displayName: "Playful & Fun", image: "playful", key: "playful_fun"),
+        Personality(displayName: "Bold & Energetic", image: "bold", key: "bold_energetic"),
+        Personality(displayName: "Calm & Serene", image: "calm", key: "calm_serene"),
+        
+        Personality(displayName: "Elegant & Sophisticated", image: "elegant", key: "elegant_sophisticated"),
+        Personality(displayName: "Trustworthy & Reliable", image: "trust", key: "trustworthy_reliable"),
+        Personality(displayName: "Mysterious & Dramatic", image: "mysterious", key: "mysterious_dramatic"),
+        
+        Personality(displayName: "Adventurous & Daring", image: "adventure", key: "adventurous_daring"),
+        Personality(displayName: "Warm & Friendly", image: "warm", key: "warm_friendly"),
+        Personality(displayName: "Modern & Innovative", image: "modern", key: "modern_innovative"),
+        
+        Personality(displayName: "Natural & Earthy", image: "natural", key: "natural_earthy")
     ]
 }

@@ -18,39 +18,63 @@ struct IndustryView: View {
     ]
     
     var body: some View {
-        VStack(alignment: .leading, spacing: 30) {
-            ProgressView(value: progress)
-                .tint(Color.tertiaryColors)
+        ZStack {
+            Color.backgroundColors
+                .ignoresSafeArea()
             
-            Text("Who is your target user?")
-                .font(.system(size: 24, weight: .bold))
-            
-            LazyVGrid(columns: columns, spacing: 40) {
-                ForEach(Industry.allIndustry, id: \.id) { industry in
-                    MiniCardIndustry(
-                        industry: industry,
-                        isSelected: viewModel.selectedIndustry?.id == industry.id
-                    )
-                    .onTapGesture {
-                        viewModel.selectedIndustry = industry
+            VStack(alignment: .leading, spacing: 10) {
+                ProgressView(value: progress)
+                    .tint(Color.tertiaryColors)
+                
+                Text("What's your project about?")
+                    .font(.system(size: 24, weight: .bold))
+                    .padding(.vertical, 10)
+                    .padding(.bottom, 10)
+                
+                LazyVGrid(columns: columns, spacing: 40) {
+                    ForEach(Industry.allIndustry, id: \.id) { industry in
+                        MiniCardIndustry(
+                            industry: industry,
+                            isSelected: viewModel.selectedIndustry?.id == industry.id
+                        )
+                        .opacity(viewModel.selectedIndustry == nil || viewModel.selectedIndustry?.id == industry.id ? 1.0 : 0.4)
+                        .onTapGesture {
+                            viewModel.toggleIndustry(industry)
+                        }
                     }
                 }
+                
+                Spacer()
+                
+                HStack {
+                    Button {
+                        viewModel.goBack()
+                    } label: {
+                        Text("Back")
+                            .bold()
+                            .padding(7)
+                            .frame(maxWidth: .infinity)
+
+                    }
+                    .buttonStyle(.glass)
+                    .tint(Color.primaryColors)
+                    
+                    NavigationLink(value: OnBoardingRoute.personality) {
+                        Text("Continue")
+                            .bold()
+                            .padding(7)
+                            .foregroundStyle(Color.backgroundColors)
+                            .frame(maxWidth: .infinity)
+
+                    }
+                    .buttonStyle(.glassProminent)
+                    .tint(Color.primaryColors)
+                    .disabled(viewModel.selectedIndustry == nil)
+                }
             }
-            
-            NavigationLink {
-                PersonalityView(viewModel: viewModel)
-            } label: {
-                Text("Continue")
-                    .bold()
-                    .foregroundStyle(Color.backgroundColors)
-            }
-            .buttonStyle(.glassProminent)
-            .tint(Color.primaryColors)
-            .frame(maxWidth: .infinity, alignment: .center)
-            .disabled(viewModel.selectedIndustry == nil)
+            .padding(20)
+            .frame(maxHeight: .infinity, alignment: .topLeading)
+            .navigationBarBackButtonHidden(true)
         }
-        .padding()
-        .frame(maxHeight: .infinity, alignment: .topLeading)
-        .navigationBarBackButtonHidden(true)
     }
 }

@@ -9,12 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        ZStack {
-            Color.backgroundColors
-                .ignoresSafeArea()
-            
-            OnboardingFlowView()
-        }
+        OnboardingFlowView()
+        
     }
 }
 

@@ -16,6 +16,7 @@ struct TargetUserCard: View {
             Image(target.image)
                 .resizable()
                 .cornerRadius(10)
+                .frame(maxWidth: .infinity, minHeight: 180, maxHeight: 180)
                 .overlay {
                     RoundedRectangle(cornerRadius: 10)
                         .stroke(isSelected ? Color.secondaryColors : Color.clear, lineWidth: isSelected ? 3 : 0)
@@ -27,26 +28,24 @@ struct TargetUserCard: View {
                 Text(target.displayName)
                     .foregroundStyle(Color.primaryColors)
                     .bold()
-                    .padding(15)
-                    .background(
-                        RoundedRectangle(cornerRadius: 15)
-                            .fill(.backgroundColors)
-                            .frame(height: 36)
-                    )
+                    .padding(.bottom, 5)
+                    
             }
+            .frame(maxWidth: .infinity, minHeight: 180, maxHeight: 180)
             
             VStack {
                 HStack {
                     Spacer()
                     
-                    RoundedRectangle(cornerRadius: 10)
+                    Circle()
                         .fill(isSelected ? Color.secondaryColors : Color.backgroundColors)
                         .stroke(.secondaryColors, lineWidth: 1)
-                        .frame(width: 40, height: 40)
+                        .frame(width: 30, height: 30)
                         .overlay {
                             if isSelected {
                                 Image(systemName: "checkmark")
                                     .foregroundStyle(Color.backgroundColors)
+                                    .font(.system(size: 14, weight: .bold))
                             }
                         }
                 }
@@ -54,12 +53,15 @@ struct TargetUserCard: View {
                 Spacer()
             }
             .padding()
+            .frame(maxWidth: .infinity, minHeight: 180, maxHeight: 180)
+        }
+        .frame(maxWidth: .infinity, minHeight: 180, maxHeight: 180)
+        .clipShape(RoundedRectangle(cornerRadius: 10))
+        .overlay {
+            RoundedRectangle(cornerRadius: 10)
+                .stroke(isSelected ? Color.secondaryColors : Color.clear, lineWidth: isSelected ? 3 : 0)
         }
         .padding(.vertical, 10)
         .contentShape(Rectangle())
     }
 }
-//
-//#Preview {
-//    TargetUserCard(target: TargetUser.allTarget[0])
-//}

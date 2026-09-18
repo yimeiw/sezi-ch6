@@ -14,12 +14,7 @@ struct MiniCardIndustry: View {
         ZStack {
             Image(industry.image)
                 .resizable()
-                .cornerRadius(10)
-                .frame(width: 115, height: 116)
-                .overlay(
-                    RoundedRectangle(cornerRadius: 10)
-                        .stroke(isSelected ? Color.secondaryColors : Color.clear, lineWidth: isSelected ? 3 : 0)
-                )
+                .frame(width: 116, height: 130)
             
             VStack {
                 Spacer()
@@ -27,33 +22,34 @@ struct MiniCardIndustry: View {
                 Text(industry.displayName)
                     .foregroundStyle(Color.primaryColors)
                     .padding(.horizontal, 10)
-                    .frame(height: 26)
+                    .frame(height: 26, alignment: .center)
+                    .multilineTextAlignment(.center)
                     .font(.system(size: 9, weight: .bold))
-//                    .background(
-//                        RoundedRectangle(cornerRadius: 15)
-//                            .fill(.backgroundColors)
-//                    )
+                    
             }
+            .padding(.bottom, 5)
             
             VStack {
                 HStack {
                     Spacer()
                     
-                    RoundedRectangle(cornerRadius: 10)
+                    Circle()
                         .fill(isSelected ? Color.secondaryColors : Color.backgroundColors)
                         .stroke(.secondaryColors, lineWidth: 1)
-                        .frame(width: 30, height: 30)
+                        .frame(width: 20, height: 20)
                         .overlay {
                             if isSelected {
                                 Image(systemName: "checkmark")
                                     .foregroundStyle(Color.backgroundColors)
+                                    .font(.system(size: 9, weight: .bold))
                             }
                         }
                 }
                 
                 Spacer()
             }
-            .padding()
+            .padding(.vertical, 15)
+            .padding(.horizontal, 10)
         }
         .frame(width: 100, height: 100)
         .contentShape(Rectangle())

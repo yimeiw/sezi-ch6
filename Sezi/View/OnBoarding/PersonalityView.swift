@@ -9,7 +9,7 @@ import SwiftUI
 
 struct PersonalityView: View {
     @Bindable var viewModel: OnBoardingViewModel
-    @State private var progress = 0.9
+    @State private var progress = 1.0
     
     private let columns = [
         GridItem(.flexible()),
@@ -18,43 +18,67 @@ struct PersonalityView: View {
     ]
     
     var body: some View {
-        VStack(alignment: .leading, spacing: 30) {
-            ProgressView(value: progress)
-                .tint(Color.tertiaryColors)
+        ZStack {
+            Color.backgroundColors
+                .ignoresSafeArea()
             
-            Text("Who is your target user?")
-                .font(.system(size: 24, weight: .bold))
-            
-            LazyVGrid(columns: columns, spacing: 40) {
-                ForEach(Personality.allPersonality, id: \.id) { personality in
-                    MiniCardPersonality(
-                        personality: personality,
-                        isSelected: viewModel.selectedPersonality?.id == personality.id
-                    )
-                    .onTapGesture {
-                        viewModel.selectedPersonality = personality
+            VStack(alignment: .leading, spacing: 30) {
+                ProgressView(value: progress)
+                    .tint(Color.tertiaryColors)
+                
+                Text("Choose up to 3 personalities")
+                    .font(.system(size: 24, weight: .bold))
+                    .padding(.vertical, 10)
+                    .padding(.bottom, 10)
+                
+                LazyVGrid(columns: columns, spacing: 40) {
+                    ForEach(Personality.allPersonality, id: \.id) { personality in
+                        MiniCardPersonality(
+                            personality: personality,
+                            isSelected: viewModel.selectedPersonalities.contains(where: { $0.id == personality.id })
+                        )
+                        .opacity(canTap(personality) ? 1.0 : 0.4)
+                        .onTapGesture {
+                            viewModel.togglePersonality(personality)
+                        }
                     }
                 }
+                
+                Spacer()
+                
+                HStack {
+                    Button {
+                        viewModel.goBack()
+                    } label: {
+                        Text("Back")
+                            .bold()
+                            .padding(7)
+                            .frame(maxWidth: .infinity)
+
+                    }
+                    .buttonStyle(.glass)
+                    .tint(Color.primaryColors)
+                    
+                    NavigationLink(value: OnBoardingRoute.colorResult) {
+                        Text("See Result")
+                            .bold()
+                            .padding(7)
+                            .foregroundStyle(Color.backgroundColors)
+                            .frame(maxWidth: .infinity)
+                    }
+                    .buttonStyle(.glassProminent)
+                    .tint(Color.primaryColors)
+                    .disabled(viewModel.selectedPersonalities.isEmpty)
+                }
+                
             }
-            
-            Button {
-                //continue to industry
-            } label: {
-                Text("See Result")
-                    .bold()
-                    .foregroundStyle(Color.backgroundColors)
-            }
-            .buttonStyle(.glassProminent)
-            .tint(Color.primaryColors)
-            .frame(maxWidth: .infinity, alignment: .center)
-            .disabled(viewModel.selectedPersonality == nil)
+            .padding(20)
+            .frame(maxHeight: .infinity, alignment: .topLeading)
+            .navigationBarBackButtonHidden(true)
         }
-        .padding()
-        .frame(maxHeight: .infinity, alignment: .topLeading)
-        .navigationBarBackButtonHidden(true)
+    }
+    
+    private func canTap(_ personality: Personality) -> Bool {
+        viewModel.selectedPersonalities.contains(where: { $0.id == personality.id }) || viewModel.selectedPersonalities.count < 3
     }
 }
-
-//#Preview {
-//    PersonalityView()
-//}

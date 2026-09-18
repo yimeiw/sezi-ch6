@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>PlayfairDisplay-Regular.ttf</string>
+		<string>Lato-Regular.ttf</string>
+		<string>AbrilFatface-Regular.ttf</string>
+		<string>AmaticSC-Regular.ttf</string>
+		<string>Anton-Regular.ttf</string>
+		<string>Baloo2-Regular.ttf</string>
+		<string>Barlow-Regular.ttf</string>
+		<string>BebasNeue-Regular.ttf</string>
+		<string>Bungee-Regular.ttf</string>
+		<string>Caveat-Regular.ttf</string>
+		<string>CinzelDecorative-Regular.ttf</string>
+		<string>Comfortaa-Regular.ttf</string>
+		<string>CormorantGaramond-Regular.ttf</string>
+		<string>Creepster-Regular.ttf</string>
+		<string>CrimsonPro-Regular.ttf</string>
+		<string>DMSans-Regular.ttf</string>
+		<string>DMSerifDisplay-Regular.ttf</string>
+		<string>EBGaramond-Regular.ttf</string>
+		<string>Fredoka-Regular.ttf</string>
+		<string>Grandstander-Regular.ttf</string>
+		<string>IBMPlexSans-Regular.ttf</string>
+		<string>Inter-Regular.ttf</string>
+		<string>JosefinSans-Regular.ttf</string>
+		<string>Karla-Regular.ttf</string>
+		<string>Lora-Regular.ttf</string>
+		<string>LuckiestGuy-Regular.ttf</string>
+		<string>Marcellus-Regular.ttf</string>
+		<string>Merriweather-Regular.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>Mulish-Regular.ttf</string>
+		<string>Nunito-Regular.ttf</string>
+		<string>NunitoSans-Regular.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>Oswald-Regular.ttf</string>
+		<string>Pacifico-Regular.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>Quicksand-Regular.ttf</string>
+		<string>Righteous-Regular.ttf</string>
+		<string>Roboto-Regular.ttf</string>
+		<string>Rubik-Regular.ttf</string>
+		<string>SourceSansPro-Regular.ttf</string>
+		<string>SpaceGrotesk-Regular.ttf</string>
+		<string>SpecialElite-Regular.ttf</string>
+		<string>Staatliches-Regular.ttf</string>
+		<string>VarelaRound-Regular.ttf</string>
+		<string>WorkSans-Regular.ttf</string>
+	</array>
+</dict>
+</plist>
